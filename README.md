@@ -1,2 +1,5 @@
 # camillejr.github.io
-My GitHub Page
+
+Hello!
+
+Welcome to my GitHub Page.
