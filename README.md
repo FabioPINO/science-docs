@@ -1,5 +1,3 @@
-# camillejr.github.io
-
-Hello!
+# Hello
 
 Welcome to my GitHub Page.
