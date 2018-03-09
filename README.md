@@ -7,7 +7,7 @@ __*Hergé*__
 
 ## Initial idea
 
-This site is a collection of projects and tutorials aimed for explorers and experimenters who are willing to study scientific or engineering subjects in what Richard Feynman called: *"the most undisciplined, irreverent and original manner possible"*.
+This site is a collection of projects, tutorials and study notes aimed for explorers and experimenters who are willing to study scientific or engineering subjects in what Richard Feynman called: *"the most undisciplined, irreverent and original manner possible"*.
 
 # Projects
 
@@ -18,3 +18,5 @@ In the *Objectif Morse* project you will learn basics of `Arduino` and `C++` whi
 [Objectif Morse tutorial](https://github.com/camillejr/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf)
 
 [GitHub repository](https://github.com/camillejr/objectif_morse)
+
+# Study notes
