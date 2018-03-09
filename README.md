@@ -13,4 +13,8 @@ This site is a collection of projects and tutorials aimed for explorers and expe
 
 ## Objectif Morse
 
-In the [Objectif Morse](https://github.com/camillejr/objectif_morse) project you will learn basics of `Arduino` and `C++` while transmitting messages in Morse alphabet between computers.
+In the *Objectif Morse* project you will learn basics of `Arduino` and `C++` while transmitting messages in Morse alphabet between computers.
+
+[Objectif Morse tutorial](https://github.com/camillejr/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf)
+
+[GitHub repository](https://github.com/camillejr/objectif_morse)
