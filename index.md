@@ -2,6 +2,9 @@
 title: Main page
 layout: default
 ---
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
 # Science Docs
 
@@ -22,7 +25,7 @@ In the *Objectif Morse* project you will learn basics of `Arduino` and `C++` whi
 
 <span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf"> PDF tutorial</a></span>
 
-<p><span class="fa fa-github"><a href="https://github.com/camillejr/objectif_morse"> GitHub repository</a></span>
+<span class="fa fa-github"><a href="https://github.com/camillejr/objectif_morse"> GitHub repository</a></span>
 
 # Blog posts
 
