@@ -26,4 +26,10 @@ In the *Objectif Morse* project you will learn basics of `Arduino` and `C++` whi
 
 # Posts
 
-[Introduction](_posts/2018-03-10-intro.md)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
