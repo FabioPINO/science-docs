@@ -31,7 +31,7 @@ In the *Objectif Morse* project you will learn basics of `Arduino` and `C++` whi
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
