@@ -26,4 +26,4 @@ In the *Objectif Morse* project you will learn basics of `Arduino` and `C++` whi
 
 # Posts
 
-[Some Link](_posts/2018-03-10-intro.markdown)
+[Some Link](_posts/2018-03-10-intro.md)
