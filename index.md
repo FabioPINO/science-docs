@@ -26,4 +26,4 @@ In the *Objectif Morse* project you will learn basics of `Arduino` and `C++` whi
 
 # Posts
 
-[Some Link]({% post_url 2018-03-10-intro%})
+[Some Link](_posts/2018-03-10-intro.markdown)
