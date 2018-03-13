@@ -29,9 +29,9 @@ In the **Objectif Morse** project you will learn basics of `Arduino` and `C++` w
 
 # Study notes
 
-### Short Training Programme at the von Karman Institute for Fluid Dynamics
+### POD and DMD decomposition of numerical and experimental data
 
-As a stagiaire at the von Karman Institute I studied two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**. Using POD and DMD within `Matlab` scripts, I approximated velocity profile in the pulsating Poiseuille flow and the velocity field in the flow behind a cylinder. I developed GUI to perform data decomposition.
+In the summer of 2016 I was a stagiaire at the von Karman Institute for Fluid Dynamics in Belgium. I studied two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**. Using POD and DMD within `Matlab` scripts, I approximated velocity profile in the pulsating Poiseuille flow and the velocity field in the flow behind a cylinder. I developed GUI to perform data decomposition.
 
 I wrote my final report with the aim that it will be an educational tool, collecting the knowledge I gained for future students.
 
