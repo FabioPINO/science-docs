@@ -8,12 +8,12 @@ layout: default
 
 # Science Docs
 
-### Motivation
+
 
 > À force de croire en ses rêves, l’homme en fait une réalité.  
 __*Hergé*__
 
-### Idea
+### I have a dream...
 
 This site is a collection of **projects**, **tutorials** and **study notes** aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called: *"the pleasure of finding things out"*.
 
