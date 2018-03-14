@@ -8,8 +8,6 @@ layout: default
 
 # Science Docs
 
-
-
 > À force de croire en ses rêves, l’homme en fait une réalité.  
 __*Hergé*__
 
@@ -21,7 +19,7 @@ This site is a collection of **projects**, **tutorials** and **study notes** aim
 
 ### Objectif Morse
 
-In the **Objectif Morse** project you will learn basics of `Arduino` and `C++` while transmitting messages in Morse alphabet between computers.
+In the **Objectif Morse** project you will learn the basics of `Arduino` and `C++` while transmitting messages in Morse alphabet between computers.
 
 <span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf"> PDF tutorial</a></span>
 
@@ -31,7 +29,7 @@ In the **Objectif Morse** project you will learn basics of `Arduino` and `C++` w
 
 ### POD and DMD decomposition of numerical and experimental data
 
-In the summer of 2016 I was a stagiaire at the von Karman Institute for Fluid Dynamics in Belgium. I studied two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**. Using concepts from linear algebra and dynamical systems within `Matlab` scripts, I approximated velocity profile in the pulsating Poiseuille flow and the velocity field in the flow behind a cylinder.
+In the summer of 2016 I was a stagiaire at the von Karman Institute for Fluid Dynamics in Belgium. I studied two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**. Using concepts from linear algebra and dynamical systems within `Matlab` scripts I approximated velocity profile in the pulsating Poiseuille flow and the velocity field in the flow behind a cylinder.
 
 I wrote my final report with the aim that it will be an educational tool, collecting the knowledge I gained for future students.
 
