@@ -46,3 +46,8 @@ I wrote my final report with the aim that it will be an educational tool, collec
     </li>
   {% endfor %}
 </ul>
+
+<footer class="site-footer">
+
+  <span class="site-footer-credits">This site uses: <a href="https://github.com/lorepirri/cayman-blog">Cayman Blog Theme</a>  by Lorenzo Pirritano (@lorepirri)  | <a href="https://github.com/lorepirri/cayman-blog/blob/master/LICENSE">Licence</a>: Creative Commons Attribution 1.0 International </span>
+</footer>
