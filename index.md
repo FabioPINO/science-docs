@@ -15,6 +15,8 @@ __*Hergé*__
 
 This site is a collection of **projects**, **tutorials** and **study notes** aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called: *"the pleasure of finding things out"*.
 
+Check out also the watercolours section if you feel like!
+
 # Projects
 
 ### Objectif Morse
@@ -37,6 +39,16 @@ I wrote my final report with the aim that it will be an educational tool, collec
 
 <span class="fa fa-github"><a href="https://github.com/camillejr/vki_short_training"> GitHub repository</a></span>
 
+# Watercolours
+
+### Thought process in watercolours
+
+In this document I present how I apply the thought process to improve my watercolour paintings.
+
+<span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/learning_to_draw_and_paint/raw/master/self_feedback.pdf"> PDF tutorial</a></span>
+
+<span class="fa fa-github"><a href="https://github.com/camillejr/learning_to_draw_and_paint"> GitHub Watercolour repository</a></span>
+
 # Posts
 
 <ul>
@@ -49,5 +61,8 @@ I wrote my final report with the aim that it will be an educational tool, collec
 
 <footer class="site-footer">
 
-  <span class="site-footer-credits">This site uses: <a href="https://github.com/lorepirri/cayman-blog">Cayman Blog Theme</a>  by Lorenzo Pirritano (@lorepirri)  | <a href="https://github.com/lorepirri/cayman-blog/blob/master/LICENSE">Licence</a>: Creative Commons Attribution 1.0 International </span>
+  <span class="site-footer-credits">This site u
+
+
+  es: <a href="https://github.com/lorepirri/cayman-blog">Cayman Blog Theme</a>  by Lorenzo Pirritano (@lorepirri)  | <a href="https://github.com/lorepirri/cayman-blog/blob/master/LICENSE">Licence</a>: Creative Commons Attribution 1.0 International </span>
 </footer>
