@@ -35,6 +35,18 @@ In the **Objectif Morse** project you will learn the basics of `Arduino` and `C+
 
 <span class="fa fa-github"><a href="https://github.com/camillejr/objectif_morse"> GitHub repository</a></span>
 
+# Tutorials
+
+### Computational examples in transport phenomena with Python
+
+I have recently completed two amazing courses offered through edX by Delft University: **The Basics of Transport Phenomena** and **Advanced Transport Phenomena**. I have decided to collect the most interesting computational examples in a form of a tutorial and create a set of Python codes to accompany a better understanding of the results.
+
+This tutorial is still under construction.
+
+<span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/fluid_mechanics/raw/master/Transport_Phenomena/computational_examples.pdf"> PDF tutorial</a></span>
+
+<span class="fa fa-github"><a href="https://github.com/camillejr/fluid_mechanics/tree/master/Transport_Phenomena"> GitHub repository</a></span>
+
 # Study notes
 
 ### POD and DMD decomposition of numerical and experimental data
