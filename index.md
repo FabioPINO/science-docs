@@ -23,7 +23,7 @@ __*Hergé*__
 
 I have a dream that the PDFs will enrich your journey through learning.
 
-(...and for (a bit) less scientific subjects, check out the watercolours section if you feel like!)
+(For (a bit) less scientific works, check out the watercolours section if you feel like!)
 
 # Projects
 
