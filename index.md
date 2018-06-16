@@ -8,14 +8,22 @@ layout: default
 
 # Science Docs
 
-> À force de croire en ses rêves, l’homme en fait une réalité.  
-__*Hergé*__
+Hello explorer and experimenter, welcome to **Science Docs**! Or as Python would say:
+
+{% highlight python %}
+print "Howdy, Universe!"
+{% endhighlight %}
 
 ### I have a dream...
 
-This site is a collection of **projects**, **tutorials** and **study notes** aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called: *"the pleasure of finding things out"*.
+> À force de croire en ses rêves, l’homme en fait une réalité.  
+__*Hergé*__
 
-Check out also the watercolours section if you feel like!
+**Science Docs** is a collection of **projects**, **tutorials** and **study notes** that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called: *"the pleasure of finding things out"*. 
+
+I have a dream that the PDFs will enrich your journey through learning.
+
+(...and for (a bit) less scientific subjects, check out the watercolours section if you feel like!)
 
 # Projects
 
