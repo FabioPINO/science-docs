@@ -35,6 +35,14 @@ In the **Objectif Morse** project you will learn the basics of `Arduino` and `C+
 
 <span class="fa fa-github"><a href="https://github.com/camillejr/objectif_morse"> GitHub repository</a></span>
 
+### Cooking water
+
+This small home experiment was for deriving the temperature vs. time curve for cooking water on three types of stoves: electrical, induction and gas.
+
+<span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/stoves_temperature_vs_time/raw/master/Stoves.pdf"> PDF tutorial</a></span>
+
+<span class="fa fa-github"><a href="https://github.com/camillejr/stoves_temperature_vs_time"> GitHub repository</a></span>
+
 # Tutorials
 
 ### Computational examples in transport phenomena with Python
