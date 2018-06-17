@@ -11,7 +11,7 @@ layout: default
 Hello explorer and experimenter, welcome to **Science Docs**! Or as Python would say:
 
 {% highlight python %}
-print "Howdy, Universe!"
+print("Howdy, Universe!")
 {% endhighlight %}
 
 ### I have a dream...
