@@ -67,6 +67,14 @@ I wrote my final report with the aim that it will be an educational tool, collec
 
 <span class="fa fa-github"><a href="https://github.com/camillejr/vki_short_training"> GitHub repository</a></span>
 
+### Proof of associative law for matrices
+
+This is a quick proof of the associative law for matrices inspired by one of the MIT lecture from a course on Linear Algebra by professor Gilbert Strang.
+
+<span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/numerical_methods/raw/master/associative_law/associative_law_proof.pdf"> PDF note</a></span>
+
+<span class="fa fa-github"><a href="https://github.com/camillejr/numerical_methods/tree/master/associative_law"> GitHub repository</a></span>
+
 # Watercolours
 
 ### Thought process in watercolours
