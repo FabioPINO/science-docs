@@ -19,7 +19,7 @@ print("Howdy, Universe!")
 > À force de croire en ses rêves, l’homme en fait une réalité.  
 __*Hergé*__
 
-**Science Docs** is a collection of **projects**, **tutorials** and **study notes** that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called: *"the pleasure of finding things out"*. 
+**Science Docs** is a collection of **projects**, **tutorials** and **study notes** that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called: *"the pleasure of finding things out"*.
 
 I have a dream that the PDFs will enrich your journey through learning.
 
@@ -39,9 +39,9 @@ In the **Objectif Morse** project you will learn the basics of `Arduino` and `C+
 
 This small home experiment was for deriving the temperature vs. time curve for cooking water on three types of stoves: electrical, induction and gas.
 
-<span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/stoves_temperature_vs_time/raw/master/Stoves.pdf"> PDF tutorial</a></span>
+<span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/home_experiments/raw/master/stoves/Stoves.pdf"> PDF tutorial</a></span>
 
-<span class="fa fa-github"><a href="https://github.com/camillejr/stoves_temperature_vs_time"> GitHub repository</a></span>
+<span class="fa fa-github"><a href="https://github.com/camillejr/home_experiments/tree/master/stoves"> GitHub repository</a></span>
 
 # Tutorials
 
