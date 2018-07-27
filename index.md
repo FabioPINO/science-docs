@@ -6,13 +6,34 @@ layout: default
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
+<style>
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;  
+    padding: 5px;
+    width: 150px;
+}
+
+{
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 20%;
+    padding: 0px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+
 # Science Docs
 
-Hello explorer and experimenter, welcome to **Science Docs**! Or as Python would say:
-
-{% highlight python %}
-print("Howdy, Universe!")
-{% endhighlight %}
+Hello explorer and experimenter, welcome to **Science Docs**!
 
 ### I have a dream...
 
@@ -25,7 +46,7 @@ I have a dream that the PDFs will enrich your journey through learning.
 
 (For (a bit) less scientific works, check out the watercolours section if you feel like!)
 
-# Projects
+# PDFs
 
 ### Objectif Morse
 
@@ -39,33 +60,45 @@ In the **Objectif Morse** project you will learn the basics of `Arduino` and `C+
 
 This small home experiment was for deriving the temperature vs. time curve for cooking water on three types of stoves: electrical, induction and gas.
 
-<span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/home_experiments/raw/master/stoves/Stoves.pdf"> PDF tutorial</a></span>
-
-<span class="fa fa-github"><a href="https://github.com/camillejr/home_experiments/tree/master/stoves"> GitHub repository</a></span>
-
-# Tutorials
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/home_experiments/blob/master/stoves/DWGs/all_stoves.png?raw=true" alt="cooking_water" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/home_experiments/raw/master/stoves/Stoves.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/home_experiments/tree/master/stoves"> GitHub repository</a></span></p>
+  </div>
+</div>
 
 ### Computational examples in transport phenomena with Python
 
-I have recently completed two amazing courses offered through edX by Delft University: **The Basics of Transport Phenomena** and **Advanced Transport Phenomena**. I have decided to collect the most interesting computational examples in a form of a tutorial and create a set of Python codes to accompany a better understanding of the results.
+I recently completed two amazing courses offered through edX by Delft University: **The Basics of Transport Phenomena** and **Advanced Transport Phenomena**. I have decided to collect the most interesting computational examples in a form of a tutorial and create a set of Python codes to accompany a better understanding of the results.
 
 This tutorial is still under construction.
 
-<span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/fluid_mechanics/raw/master/Transport_Phenomena/computational_examples.pdf"> PDF tutorial</a></span>
-
-<span class="fa fa-github"><a href="https://github.com/camillejr/fluid_mechanics/tree/master/Transport_Phenomena"> GitHub repository</a></span>
-
-# Study notes
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/fluid_mechanics/blob/master/Transport_Phenomena/DWGs/lumped_system.gif?raw=true" alt="transport_phenomena" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/fluid_mechanics/raw/master/Transport_Phenomena/computational_examples.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/fluid_mechanics/tree/master/Transport_Phenomena"> GitHub repository</a></span></p>
+  </div>
+</div>
 
 ### POD and DMD decomposition of numerical and experimental data
 
-In the summer of 2016 I was a stagiaire at the von Karman Institute for Fluid Dynamics in Belgium. I studied two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**. Using concepts from linear algebra and dynamical systems within `Matlab` scripts I approximated velocity profile in the pulsating Poiseuille flow and the velocity field in the flow behind a cylinder.
+In the summer of 2016 I was a stagiaire at the von Karman Institute for Fluid Dynamics in Belgium. I studied two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**. Using concepts from linear algebra and dynamical systems within Matlab scripts I approximated velocity profile in the pulsating Poiseuille flow and the velocity field in the flow behind a cylinder.
 
-I wrote my final report with the aim that it will be an educational tool, collecting the knowledge I gained for future students.
-
-<span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/vki_short_training/raw/master/final_report/stagiaire_report_kzdybal.pdf"> PDF final report</a></span>
-
-<span class="fa fa-github"><a href="https://github.com/camillejr/vki_short_training"> GitHub repository</a></span>
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/vki_short_training/blob/master/DWGs/GIF_2D_POD_r3.gif?raw=true" alt="POD_DMD" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/vki_short_training/raw/master/final_report/stagiaire_report_kzdybal.pdf"> PDF final report</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/vki_short_training"> GitHub repository</a></span></p>
+  </div>
+</div>
 
 ### Proof of associative law for matrices
 
@@ -75,7 +108,7 @@ This is a quick proof of the associative law for matrices inspired by one of the
 
 <span class="fa fa-github"><a href="https://github.com/camillejr/numerical_methods/tree/master/associative_law"> GitHub repository</a></span>
 
-# Watercolours
+## Watercolours
 
 ### Thought process in watercolours
 
