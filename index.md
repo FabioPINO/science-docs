@@ -31,9 +31,7 @@ img {
 }
 </style>
 
-# Science Docs
-
-Hello explorer and experimenter, welcome to **Science Docs**!
+# Hello explorer and experimenter, welcome to **Science Docs**!
 
 ### I have a dream...
 
@@ -42,23 +40,29 @@ __*Hergé*__
 
 **Science Docs** is a collection of **projects**, **tutorials** and **study notes** that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called: *"the pleasure of finding things out"*.
 
-I have a dream that the PDFs will enrich your journey through learning.
-
-(For (a bit) less scientific works, check out the watercolours section if you feel like!)
+I have a dream that the PDFs will now enrich your journey through learning.
 
 # PDFs
 
+## Completed
+
 ### Objectif Morse
 
-In the **Objectif Morse** project you will learn the basics of `Arduino` and `C++` while transmitting messages in Morse alphabet between computers.
+In the **Objectif Morse** project you will make an interesting use of Arduino, electronic circuits and C++ while transmitting messages in Morse alphabet between computers.
 
-<span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf"> PDF tutorial</a></span>
-
-<span class="fa fa-github"><a href="https://github.com/camillejr/objectif_morse"> GitHub repository</a></span>
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/objectif_morse/blob/master/Documentation/DWGs/scheme.png?raw=true" alt="cooking_water" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/objectif_morse"> GitHub repository</a></span></p>
+  </div>
+</div>
 
 ### Cooking water
 
-This small home experiment was for deriving the temperature vs. time curve for cooking water on three types of stoves: electrical, induction and gas.
+This small home experiment is for deriving the temperature vs. time curve for cooking water on three types of stoves: electrical, induction and gas.
 
 <div class="row">
   <div class="column">
@@ -70,25 +74,12 @@ This small home experiment was for deriving the temperature vs. time curve for c
   </div>
 </div>
 
-### Computational examples in transport phenomena with Python
-
-I recently completed two amazing courses offered through edX by Delft University: **The Basics of Transport Phenomena** and **Advanced Transport Phenomena**. I have decided to collect the most interesting computational examples in a form of a tutorial and create a set of Python codes to accompany a better understanding of the results.
-
-This tutorial is still under construction.
-
-<div class="row">
-  <div class="column">
-    <a><img src="https://github.com/camillejr/fluid_mechanics/blob/master/Transport_Phenomena/DWGs/lumped_system.gif?raw=true" alt="transport_phenomena" style="width:150px"></a>
-  </div>
-  <div class="column">
-    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/fluid_mechanics/raw/master/Transport_Phenomena/computational_examples.pdf"> PDF tutorial</a></span></p>
-    <p><span class="fa fa-github"><a href="https://github.com/camillejr/fluid_mechanics/tree/master/Transport_Phenomena"> GitHub repository</a></span></p>
-  </div>
-</div>
 
 ### POD and DMD decomposition of numerical and experimental data
 
-In the summer of 2016 I was a stagiaire at the von Karman Institute for Fluid Dynamics in Belgium. I studied two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**. Using concepts from linear algebra and dynamical systems within Matlab scripts I approximated velocity profile in the pulsating Poiseuille flow and the velocity field in the flow behind a cylinder.
+Using two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**, as well as concepts from linear algebra and dynamical systems within Matlab scripts, I searched for low-rank structures in the pulsating Poiseuille flow and in the velocity field of the flow behind a cylinder.
+
+This work has been produced as part of the Short Training Programme at the von Karman Institute for Fluid Dynamics.
 
 <div class="row">
   <div class="column">
@@ -102,13 +93,33 @@ In the summer of 2016 I was a stagiaire at the von Karman Institute for Fluid Dy
 
 ### Proof of associative law for matrices
 
-This is a quick proof of the associative law for matrices inspired by one of the MIT lecture from a course on Linear Algebra by professor Gilbert Strang.
+This is a proof of the associative law for matrices inspired by one of the MIT lectures from a course on Linear Algebra by professor Gilbert Strang.
 
 <span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/numerical_methods/raw/master/associative_law/associative_law_proof.pdf"> PDF note</a></span>
 
 <span class="fa fa-github"><a href="https://github.com/camillejr/numerical_methods/tree/master/associative_law"> GitHub repository</a></span>
 
-## Watercolours
+## Under construction
+
+### Computational examples in transport phenomena with Python
+
+I collected the most interesting computational examples in various transport phenomena in a form of a tutorial and created a set of Python codes to accompany a better understanding of the results.
+
+This tutorial has been produced during two edX courses offered by Delft University: The Basics of Transport Phenomena and Advanced Transport Phenomena.
+
+<sup>This tutorial is still under construction...</sup>
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/fluid_mechanics/blob/master/Transport_Phenomena/DWGs/lumped_system.gif?raw=true" alt="transport_phenomena" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/fluid_mechanics/raw/master/Transport_Phenomena/computational_examples.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/fluid_mechanics/tree/master/Transport_Phenomena"> GitHub repository</a></span></p>
+  </div>
+</div>
+
+# A (bit) less scientific section
 
 ### Thought process in watercolours
 
