@@ -60,19 +60,7 @@ In the **Objectif Morse** project you will make an interesting use of Arduino, e
   </div>
 </div>
 
-### Cooking water
 
-This small home experiment is for deriving the temperature vs. time curve for cooking water on three types of stoves: electrical, induction and gas.
-
-<div class="row">
-  <div class="column">
-    <a><img src="https://github.com/camillejr/home_experiments/blob/master/stoves/DWGs/all_stoves.png?raw=true" alt="cooking_water" style="width:150px"></a>
-  </div>
-  <div class="column">
-    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/home_experiments/raw/master/stoves/Stoves.pdf"> PDF tutorial</a></span></p>
-    <p><span class="fa fa-github"><a href="https://github.com/camillejr/home_experiments/tree/master/stoves"> GitHub repository</a></span></p>
-  </div>
-</div>
 
 
 ### POD and DMD decomposition of numerical and experimental data
@@ -101,13 +89,28 @@ This is a proof of the associative law for matrices inspired by one of the MIT l
 
 ## Under construction
 
+### Fluid Toolbox with Python
+
+**Fluid Toolbox with Python** is a collection of human-readable, pseudo-random study notes. It contains descriptions and explanations of fluid mechanics concepts, presented in a way that resembles the record of my understanding of them. It is meant to be used complimentary to the regular textbook since it may provide additional insight but it will not substitute thoroughness of a standard course in the subject. I believe that working side by side with a course it can become indeed a useful toolbox of concepts that are ready-to-use and ready-to-understand.
+
+<sup>This PDF is still under construction...</sup>
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/fluid_mechanics/blob/master/Fluid_Toolbox/cover_fluid_toolbox.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/fluid_mechanics/tree/master/Fluid_Toolbox"> GitHub repository</a></span></p>
+  </div>
+</div>
+
 ### Computational examples in transport phenomena with Python
 
 I collected few interesting computational examples in transport phenomena in a form of a tutorial and created a set of Python codes to accompany a better understanding of the results.
 
 This tutorial has been produced after taking two edX courses offered by Delft University: *The Basics of Transport Phenomena* and *Advanced Transport Phenomena*.
 
-<sup>This tutorial is still under construction...</sup>
+<sup>This PDF is still under construction...</sup>
 
 <div class="row">
   <div class="column">
@@ -125,9 +128,30 @@ This tutorial has been produced after taking two edX courses offered by Delft Un
 
 In this document I show how I apply the thought process to improve my watercolour paintings.
 
-<span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/learning_to_draw_and_paint/raw/master/self_feedback.pdf"> PDF tutorial</a></span>
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/learning_to_draw_and_paint/blob/master/self_feedback/cover_watercolours.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/learning_to_draw_and_paint/raw/master/self_feedback.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/learning_to_draw_and_paint"> GitHub repository</a></span></p>
+  </div>
+</div>
 
-<span class="fa fa-github"><a href="https://github.com/camillejr/learning_to_draw_and_paint"> GitHub Watercolour repository</a></span>
+### Cooking water
+
+This small home experiment is for deriving the temperature vs. time curve for cooking water on three types of stoves: electrical, induction and gas.
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/home_experiments/blob/master/stoves/DWGs/all_stoves.png?raw=true" alt="cooking_water" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/home_experiments/raw/master/stoves/Stoves.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/home_experiments/tree/master/stoves"> GitHub repository</a></span></p>
+  </div>
+</div>
+
 
 # Science blog & thoughts
 
