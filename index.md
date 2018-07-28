@@ -79,7 +79,7 @@ This small home experiment is for deriving the temperature vs. time curve for co
 
 Using two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**, as well as concepts from linear algebra and dynamical systems within Matlab scripts, I searched for low-rank structures in the pulsating Poiseuille flow and in the velocity field of the flow behind a cylinder.
 
-This work has been produced as part of the Short Training Programme at the von Karman Institute for Fluid Dynamics.
+This work has been produced as part of the Short Training Programme at The von Karman Institute for Fluid Dynamics.
 
 <div class="row">
   <div class="column">
