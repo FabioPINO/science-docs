@@ -129,7 +129,7 @@ In this document I present how I apply the thought process to improve my waterco
 
 <span class="fa fa-github"><a href="https://github.com/camillejr/learning_to_draw_and_paint"> GitHub Watercolour repository</a></span>
 
-# Posts
+# Science blog & thoughts
 
 <ul>
   {% for post in site.posts %}
