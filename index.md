@@ -103,9 +103,9 @@ This is a proof of the associative law for matrices inspired by one of the MIT l
 
 ### Computational examples in transport phenomena with Python
 
-I collected the most interesting computational examples in various transport phenomena in a form of a tutorial and created a set of Python codes to accompany a better understanding of the results.
+I collected few interesting computational examples in transport phenomena in a form of a tutorial and created a set of Python codes to accompany a better understanding of the results.
 
-This tutorial has been produced during two edX courses offered by Delft University: The Basics of Transport Phenomena and Advanced Transport Phenomena.
+This tutorial has been produced after taking two edX courses offered by Delft University: *The Basics of Transport Phenomena* and *Advanced Transport Phenomena*.
 
 <sup>This tutorial is still under construction...</sup>
 
@@ -123,7 +123,7 @@ This tutorial has been produced during two edX courses offered by Delft Universi
 
 ### Thought process in watercolours
 
-In this document I present how I apply the thought process to improve my watercolour paintings.
+In this document I show how I apply the thought process to improve my watercolour paintings.
 
 <span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/learning_to_draw_and_paint/raw/master/self_feedback.pdf"> PDF tutorial</a></span>
 
