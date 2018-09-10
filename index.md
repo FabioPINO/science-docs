@@ -33,10 +33,10 @@ img {
 
 # Hello explorer and experimenter, welcome to **Science Docs**!
 
-### I have a dream...
-
 > À force de croire en ses rêves, l’homme en fait une réalité.  
 __*Hergé*__
+
+### I have a dream...
 
 **Science Docs** is a collection of **projects**, **tutorials** and **study notes** that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called: *"the pleasure of finding things out"*.
 
