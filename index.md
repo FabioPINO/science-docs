@@ -38,7 +38,7 @@ __*Hergé*__
 
 ### I have a dream...
 
-**Science Docs** is a collection of **projects**, **tutorials** and **study notes** that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called: *"the pleasure of finding things out"*.
+**Science Docs** is a collection of **projects**, **tutorials** and **study notes** that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called *"the pleasure of finding things out"*.
 
 I have a dream that the PDFs will now enrich your journey through learning.
 
@@ -67,7 +67,7 @@ In the **Objectif Morse** project you will make an interesting use of Arduino, e
 
 Using two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**, as well as concepts from linear algebra and dynamical systems within Matlab scripts, I searched for low-rank structures in the pulsating Poiseuille flow and in the velocity field of the flow behind a cylinder.
 
-This work has been produced as part of the Short Training Programme at The von Karman Institute for Fluid Dynamics.
+<sup>This work has been produced as part of the Short Training Programme at The von Karman Institute for Fluid Dynamics.</sup>
 
 <div class="row">
   <div class="column">
