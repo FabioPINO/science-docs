@@ -42,11 +42,7 @@ __*Hergé*__
 
 I have a dream that the PDFs will now enrich your journey through learning.
 
-# PDFs
-
-## Completed
-
-### Objectif Morse
+# Objectif Morse
 
 In the **Objectif Morse** project you will make an interesting use of Arduino, electronic circuits and C++ while transmitting messages in Morse alphabet between computers.
 
@@ -60,10 +56,7 @@ In the **Objectif Morse** project you will make an interesting use of Arduino, e
   </div>
 </div>
 
-
-
-
-### POD and DMD decomposition of numerical and experimental data
+# POD and DMD decomposition of numerical and experimental data
 
 Using two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**, as well as concepts from linear algebra and dynamical systems within Matlab scripts, I searched for low-rank structures in the pulsating Poiseuille flow and in the velocity field of the flow behind a cylinder.
 
@@ -79,7 +72,7 @@ Using two data decomposition methods: **Proper Orthogonal Decomposition** and **
   </div>
 </div>
 
-### Proof of associative law for matrices
+# Proof of associative law for matrices
 
 This is a proof of the associative law for matrices inspired by one of the MIT lectures from a course on Linear Algebra by professor Gilbert Strang.
 
@@ -89,7 +82,7 @@ This is a proof of the associative law for matrices inspired by one of the MIT l
 
 ## Under construction
 
-### Fluid Toolbox with Python
+# Fluid Toolbox with Python
 
 **Fluid Toolbox with Python** is a collection of human-readable, pseudo-random study notes. It contains descriptions and explanations of fluid mechanics concepts, presented in a way that resembles the record of my understanding of them. It is meant to be used complimentary to the regular textbook since it may provide additional insight but it will not substitute thoroughness of a standard course in the subject. I believe that working side by side with a course it can become indeed a useful toolbox of concepts that are ready-to-use and ready-to-understand.
 
@@ -104,7 +97,7 @@ This is a proof of the associative law for matrices inspired by one of the MIT l
   </div>
 </div>
 
-### Computational examples in transport phenomena with Python
+# Computational examples in transport phenomena with Python
 
 I collected few interesting computational examples in transport phenomena in a form of a tutorial and created a set of Python codes to accompany a better understanding of the results.
 
@@ -122,9 +115,9 @@ This tutorial has been produced after taking two edX courses offered by Delft Un
   </div>
 </div>
 
-# A (bit) less scientific section
+## A (bit) less scientific section
 
-### Thought process in watercolours
+# Thought process in watercolours
 
 In this document I show how I apply the thought process to improve my watercolour paintings.
 
@@ -138,7 +131,7 @@ In this document I show how I apply the thought process to improve my watercolou
   </div>
 </div>
 
-### Cooking water
+# Cooking water
 
 This small home experiment is for deriving the temperature vs. time curve for cooking water on three types of stoves: electrical, induction and gas.
 
