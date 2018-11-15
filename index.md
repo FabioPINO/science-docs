@@ -48,7 +48,7 @@ In the **Objectif Morse** project you will make an interesting use of Arduino, e
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/objectif_morse/blob/master/Documentation/DWGs/scheme.png?raw=true" alt="cooking_water" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/objectif_morse/blob/master/Documentation/cover_obj_morse.jpg?raw=true" alt="cooking_water" style="width:150px"></a>
   </div>
   <div class="column">
     <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf"> PDF tutorial</a></span></p>
