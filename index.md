@@ -42,6 +42,8 @@ __*Hergé*__
 
 I have a dream that the PDFs will now enrich your journey through learning.
 
+-----------------------
+
 # Objectif Morse
 
 In the **Objectif Morse** project you will make an interesting use of Arduino, electronic circuits and C++ while transmitting messages in Morse alphabet between computers.
@@ -60,7 +62,7 @@ In the **Objectif Morse** project you will make an interesting use of Arduino, e
 
 Using two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**, as well as concepts from linear algebra and dynamical systems within Matlab scripts, I searched for low-rank structures in the pulsating Poiseuille flow and in the velocity field of the flow behind a cylinder.
 
-<sup>This work has been produced as part of the Short Training Programme at The von Karman Institute for Fluid Dynamics.</sup>
+<sup>This work has been produced as part of the Short Training Programme at the von Karman Institute for Fluid Dynamics.</sup>
 
 <div class="row">
   <div class="column">
@@ -79,6 +81,8 @@ This is a proof of the associative law for matrices inspired by one of the MIT l
 <span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/numerical_methods/raw/master/associative_law/associative_law_proof.pdf"> PDF note</a></span>
 
 <span class="fa fa-github"><a href="https://github.com/camillejr/numerical_methods/tree/master/associative_law"> GitHub repository</a></span>
+
+-----------------------
 
 ## Under construction
 
@@ -115,6 +119,8 @@ This tutorial has been produced after taking two edX courses offered by Delft Un
   </div>
 </div>
 
+-----------------------
+
 ## A (bit) less scientific section
 
 # Thought process in watercolours
@@ -145,6 +151,7 @@ This small home experiment is for deriving the temperature vs. time curve for co
   </div>
 </div>
 
+-----------------------
 
 # Science blog & thoughts
 
