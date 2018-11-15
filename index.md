@@ -107,11 +107,11 @@ This tutorial has been produced after taking two edX courses offered by Delft Un
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/fluid_mechanics/blob/master/Transport_Phenomena/DWGs/lumped_system.gif?raw=true" alt="transport_phenomena" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/trans-phen/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
   <div class="column">
-    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/fluid_mechanics/raw/master/Transport_Phenomena/computational_examples.pdf"> PDF tutorial</a></span></p>
-    <p><span class="fa fa-github"><a href="https://github.com/camillejr/fluid_mechanics/tree/master/Transport_Phenomena"> GitHub repository</a></span></p>
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/trans-phen/comp-examp-trans-phen.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/trans-phen"> GitHub repository</a></span></p>
   </div>
 </div>
 
