@@ -86,6 +86,30 @@ This is a proof of the associative law for matrices inspired by one of the MIT l
 
 ## Under construction
 
+# Notes on Principal Component Analysis
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/PCA/DWGs/cov-matrix.png?raw=true" alt="cooking_water" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/PCA/PCA.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/PCA"> GitHub repository</a></span></p>
+  </div>
+</div>
+
+# Notes on Dynamic Mode Decomposition
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/DMD/DWGs/getting-A.png?raw=true" alt="cooking_water" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/DMD/DMD-theory.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/DMD"> GitHub repository</a></span></p>
+  </div>
+</div>
+
 # Fluid Toolbox with Python
 
 **Fluid Toolbox with Python** is a collection of human-readable, pseudo-random study notes. It contains descriptions and explanations of fluid mechanics concepts, presented in a way that resembles the record of my understanding of them. It is meant to be used complimentary to the regular textbook since it may provide additional insight but it will not substitute thoroughness of a standard course in the subject. I believe that working side by side with a course it can become indeed a useful toolbox of concepts that are ready-to-use and ready-to-understand.
