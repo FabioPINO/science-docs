@@ -88,7 +88,7 @@ This is a proof of the associative law for matrices inspired by one of the MIT l
 
 # Notes on Principal Component Analysis
 
-These are notes on Principal Component Analysis (PCA), a data reduction technique in which the dimensionality is reduced to maintain only the directions of the largest variance in a data set.
+These are notes on **Principal Component Analysis** (PCA), a data reduction technique in which the dimensionality is reduced to maintain only the directions of the largest variance in a data set.
 
 <sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
 
@@ -104,7 +104,7 @@ These are notes on Principal Component Analysis (PCA), a data reduction techniqu
 
 # Notes on Dynamic Mode Decomposition
 
-These are notes on Dynamic Mode Decomposition (DMD), a data-driven method of finding low-rank structures in high-dimensional data sets. These notes come mainly from two lectures by Prof. Nathan Kutz from the University of Washington but also from other sources and my own previous study of DMD.
+These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method for finding low-rank structures in high-dimensional data sets. These notes come mainly from two lectures by Prof. Nathan Kutz from the University of Washington but also from other sources and my own previous study of DMD.
 
 <sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
 
