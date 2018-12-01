@@ -161,10 +161,10 @@ In this document I show how I apply the thought process to improve my watercolou
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/learning_to_draw_and_paint/blob/master/self_feedback/cover_watercolours.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/learning_to_draw_and_paint/blob/master/thought-process/DWGs/cover_watercolours.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
   <div class="column">
-    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/learning_to_draw_and_paint/raw/master/self_feedback.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/learning_to_draw_and_paint/raw/master/thought-process.pdf"> PDF tutorial</a></span></p>
     <p><span class="fa fa-github"><a href="https://github.com/camillejr/learning_to_draw_and_paint"> GitHub repository</a></span></p>
   </div>
 </div>
