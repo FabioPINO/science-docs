@@ -155,6 +155,20 @@ This tutorial has been produced after taking two edX courses offered by Delft Un
 
 ## A (bit) less scientific section
 
+# Making-of: watercolour Christmas gifts
+
+Let's paint watercolour Christmas gifts!
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/learning_to_draw_and_paint/blob/master/making-of-christmas-gifts/DWGs/cover-making-of.jpg?raw=true" alt="making-of" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/learning_to_draw_and_paint/raw/master/making-of-christmas-gifts/making-of-christmas-gifts.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/learning_to_draw_and_paint"> GitHub repository</a></span></p>
+  </div>
+</div>
+
 # Thought process in watercolours
 
 In this document I show how I apply the thought process to improve my watercolour paintings.
