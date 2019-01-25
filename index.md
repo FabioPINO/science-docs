@@ -129,7 +129,7 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
     <a><img src="https://github.com/camillejr/fluid-dynamics/blob/master/fluid-toolbox/cover_fluid_toolbox.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
   <div class="column">
-    <p><span class="fa fa-github"><a href="https://github.com/camillejr/fluid_mechanics/tree/master/Fluid_Toolbox"> GitHub repository</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/fluid-dynamics/tree/master/fluid-toolbox"> GitHub repository</a></span></p>
   </div>
 </div>
 
@@ -189,11 +189,11 @@ This small home experiment is for deriving the temperature vs. time curve for co
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/home_experiments/blob/master/stoves/DWGs/all_stoves.png?raw=true" alt="cooking_water" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/home-experiments/blob/master/stoves/DWGs/all_stoves.png?raw=true" alt="cooking_water" style="width:150px"></a>
   </div>
   <div class="column">
-    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/home_experiments/raw/master/stoves/Stoves.pdf"> PDF tutorial</a></span></p>
-    <p><span class="fa fa-github"><a href="https://github.com/camillejr/home_experiments/tree/master/stoves"> GitHub repository</a></span></p>
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/home-experiments/raw/master/stoves/Stoves.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/home-experiments/tree/master/stoves"> GitHub repository</a></span></p>
   </div>
 </div>
 
