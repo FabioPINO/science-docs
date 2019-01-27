@@ -118,15 +118,15 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
   </div>
 </div>
 
-# Fluid Toolbox with Python
+# Fluid Toolbox
 
-**Fluid Toolbox with Python** is a collection of human-readable, pseudo-random study notes. It contains descriptions and explanations of fluid mechanics concepts, presented in a way that resembles the record of my understanding of them. It is meant to be used complimentary to the regular textbook since it may provide additional insight but it will not substitute thoroughness of a standard course in the subject. I believe that working side by side with a course it can become indeed a useful toolbox of concepts that are ready-to-use and ready-to-understand.
+**Fluid Toolbox** is a collection of human-readable, pseudo-random study notes. It contains descriptions and explanations of fluid mechanics concepts, presented in a way that resembles the record of my understanding of them. It is meant to be used complimentary to the regular textbook since it may provide additional insight but it will not substitute thoroughness of a standard course in the subject. I believe that working side by side with a course it can become indeed a useful toolbox of concepts that are ready-to-use and ready-to-understand.
 
 <sup>This PDF is still under construction...</sup>
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/fluid-dynamics/blob/master/fluid-toolbox/cover_fluid_toolbox.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/fluid-dynamics/blob/master/fluid-toolbox/cover-fluid-toolbox.png?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
   <div class="column">
     <p><span class="fa fa-github"><a href="https://github.com/camillejr/fluid-dynamics/tree/master/fluid-toolbox"> GitHub repository</a></span></p>
