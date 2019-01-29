@@ -86,9 +86,9 @@ This is a proof of the associative law for matrices inspired by one of the MIT l
 
 ## Under construction
 
-# Notes on Principal Component Analysis
+# Linear algebra of Principal Component Analysis
 
-These are notes on **Principal Component Analysis** (PCA), a data reduction technique in which the dimensionality is reduced to maintain only the directions of the largest variance in a data set.
+These are notes on **Principal Component Analysis** (PCA), a data reduction technique in which the dimensionality is reduced to maintain only the directions of the largest variance in a data set. The notes focus on concepts from linear algebra underlying PCA and are accompanied by Python computational examples.
 
 <sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
 
