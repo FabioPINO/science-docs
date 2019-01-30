@@ -31,7 +31,7 @@ img {
 }
 </style>
 
-# Hello explorer and experimenter, welcome to **Science Docs**!
+# Hello, welcome to **Science Docs**!
 
 > À force de croire en ses rêves, l’homme en fait une réalité.  
 __*Hergé*__
@@ -39,6 +39,10 @@ __*Hergé*__
 ### I have a dream...
 
 **Science Docs** is a collection of **projects**, **tutorials** and **study notes** that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called *the pleasure of finding things out*. I have a dream that the PDFs will now enrich your journey through learning and discovery.
+
+### About me
+
+Hi, I'm Kamila. I am a PhD researcher in the field of combustion and fluid dynamics. If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com`
 
 -----------------------
 
