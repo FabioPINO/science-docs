@@ -42,7 +42,9 @@ __*Hergé*__
 
 ### About me
 
-Hi, I'm Kamila. I am a PhD researcher in the field of combustion and fluid dynamics. If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com`
+Hi, I'm Kamila. I am a PhD researcher at Université libre de Bruxelles.
+
+If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com`
 
 -----------------------
 
