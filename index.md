@@ -40,12 +40,6 @@ __*Hergé*__
 
 **Science Docs** is a collection of **projects**, **tutorials** and **study notes** that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called *the pleasure of finding things out*. I have a dream that the PDFs will now enrich your journey through learning and discovery.
 
-### About me
-
-Hi, I'm Kamila. I am a PhD researcher at Université libre de Bruxelles.
-
-If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com`
-
 -----------------------
 
 # Objectif Morse
@@ -202,6 +196,18 @@ This small home experiment is for deriving the temperature vs. time curve for co
     <p><span class="fa fa-github"><a href="https://github.com/camillejr/home-experiments/tree/master/stoves"> GitHub repository</a></span></p>
   </div>
 </div>
+
+-----------------------
+
+# About me
+
+Hi, I'm Kamila. I'm currently working as a PhD Researcher at Université libre de Bruxelles in the field that connects combustion, fluid dynamics and data science.
+
+I enjoy inventing my own ways of explaining things and Science Docs is pretty much an aftermath of that. I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*, combined with the recent studies on how the human brain learns most effectively. My aim is to implement that level of understanding into the documents I write. I am also a practitioner of the *active recall* technique and I strongly encourage you to use it as a tool in your learning.
+
+Apart from that, my motivation for sharing the knowledge is spreading the Feynman's: *pleasure of finding things out*. I have hopes that you will find doing science fascinating, rewarding and inspiring.
+
+If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com`
 
 -----------------------
 
