@@ -42,6 +42,22 @@ __*Hergé*__
 
 -----------------------
 
+# The linear algebra of Principal Component Analysis (with Python examples)
+
+These are notes on the linear algebra aspects of **Principal Component Analysis**. PCA is a data reduction technique in which the dimensionality is reduced to maintain only the directions of the largest variance in a data set. The notes are accompanied by several Python computational examples.
+
+<sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/PCA/DWGs/PCA-sample.png?raw=true" alt="PCA sample" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/PCA/PCA.pdf"> PDF tutorial</a></span></p>
+    <p><span class="fa fa-github"><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/PCA"> GitHub repository</a></span></p>
+  </div>
+</div>
+
 # Objectif Morse
 
 Did you ever have this idea: what if there were two computers talking to each other using Morse code? One would send a message with light signals and the other would collect the light and understand the message? No cable connecting the computers. The information simply carried by light that travels through the air.
@@ -86,27 +102,12 @@ This is a proof of the associative law for matrices inspired by one of the MIT l
 
 ## Under construction
 
-# The linear algebra of Principal Component Analysis
-
-These are notes on **Principal Component Analysis** (PCA), a data reduction technique in which the dimensionality is reduced to maintain only the directions of the largest variance in a data set. The notes focus on concepts from linear algebra underlying PCA and are accompanied by Python computational examples.
-
-<sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
-
-<div class="row">
-  <div class="column">
-    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/PCA/DWGs/cov-matrix.png?raw=true" alt="cooking_water" style="width:150px"></a>
-  </div>
-  <div class="column">
-    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/PCA/PCA.pdf"> PDF tutorial</a></span></p>
-    <p><span class="fa fa-github"><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/PCA"> GitHub repository</a></span></p>
-  </div>
-</div>
-
 # Notes on Dynamic Mode Decomposition
 
 These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method for finding low-rank structures in high-dimensional data sets. These notes come mainly from two lectures by Prof. Nathan Kutz from the University of Washington but also from other sources and my own previous study of DMD.
 
 <sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
+<sup>This PDF is still under construction...</sup>
 
 <div class="row">
   <div class="column">
