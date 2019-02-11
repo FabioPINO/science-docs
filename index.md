@@ -64,6 +64,8 @@ Did you ever have this idea: what if there were two computers talking to each ot
 
 Well, here it is! In the **Objectif Morse** project you will make an interesting use of Arduino, electronic circuits and C++ while transmitting messages in Morse alphabet between computers.
 
+<sup>This work has been produced as part of the *Arduino Study Group* meetings at the Jagiellonian University.</sup>
+
 <div class="row">
   <div class="column">
     <a><img src="https://github.com/camillejr/objectif_morse/blob/master/Documentation/cover_obj_morse.jpg?raw=true" alt="cooking_water" style="width:150px"></a>
