@@ -113,7 +113,7 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/DMD/DWGs/getting-A.png?raw=true" alt="cooking_water" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/DMD/DWGs/DMD-science-docs.png?raw=true" alt="DMD-notes" style="width:150px"></a>
   </div>
   <div class="column">
     <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/DMD/DMD-theory.pdf"> PDF tutorial</a></span></p>
