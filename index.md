@@ -116,7 +116,6 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
     <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/DMD/DWGs/DMD-science-docs.png?raw=true" alt="DMD-notes" style="width:150px"></a>
   </div>
   <div class="column">
-    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/DMD/DMD-theory.pdf"> PDF tutorial</a></span></p>
     <p><span class="fa fa-github"><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/DMD"> GitHub repository</a></span></p>
   </div>
 </div>
@@ -149,7 +148,6 @@ This tutorial has been produced after taking two edX courses offered by Delft Un
     <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/trans-phen/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
   <div class="column">
-    <p><span class="fa fa-file-pdf-o"><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/trans-phen/comp-examp-trans-phen.pdf"> PDF tutorial</a></span></p>
     <p><span class="fa fa-github"><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/trans-phen"> GitHub repository</a></span></p>
   </div>
 </div>
