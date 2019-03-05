@@ -21,4 +21,4 @@ Astronomers would have known what it means but there were no more astronomers, o
 
 And suddenly the Universe stopped. Galaxies stood still.
 
--Biip-biip - said the microwave. The popcorn was ready.
+-Biip-biip - said the microwave. Popcorn was ready.
