@@ -212,6 +212,9 @@ Apart from that, my motivation for sharing the knowledge is spreading the Feynma
 
 If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com`
 
+> Life is full of uncertainties, and has to be lived according to our best guesses based on the information available to us.
+__*S. Blundel, K. Blundell* - Concepts in Thermal Physics__
+
 -----------------------
 
 # Science blog & thoughts
