@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  "Brain buffers"
+title:  "On data buffers and remembering dreams"
 date:   2018-12-01 15:00:00 +0100
 categories: jekyll update
 ---
 
-# On data buffers, remembering dreams and how it all links
+# On data buffers and remembering dreams
 
 Here are two events.
 
@@ -13,4 +13,4 @@ Some time ago, my old laptop started to go slightly crazy. I would turn it on an
 
 I usually remember my dreams, roughly. Not every scene, but I can usually say at least one sentence about what I have dreamt about last night. Since some time, when I go to bed at night, shortly before falling asleep but when I'm still concious, a vivid image from the dream I had the previous night shows up. This doesn't happen during daytime, only in this state shortly before falling asleep.
 
-Obviously these two events appeared alike to me one day. Could the same thing be happening in the brain as was happening to my laptop? Could it be that the brain saves the dream data in a part which is not accessible in a fully awake daytime but once our brain shifts to almost falling asleep again, this brain regions is accessible again?
+Obviously these two events appeared alike to me one day. Could the same thing be happening in the brain as was happening to my laptop? Could it be that the brain saves the dream data in a part which is not accessible in a fully awake daytime but once our brain shifts to almost falling asleep again, this brain region is accessible again?
