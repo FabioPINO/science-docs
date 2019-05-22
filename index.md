@@ -34,7 +34,7 @@ img {
 # Hello, welcome to **Science Docs**!
 
 > *À force de croire en ses rêves, l’homme en fait une réalité.*
-> 
+>
 > __Hergé__
 
 ### I have a dream...
@@ -42,6 +42,12 @@ img {
 **Science Docs** is a collection of **projects**, **tutorials** and **study notes** that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called *the pleasure of finding things out*. I have a dream that the PDFs will now enrich your journey through learning and discovery.
 
 This site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Although mostly it will be small updates like typos, rewording, etc. Any corrections or update proposals are welcome.
+
+<div class="row">
+  <div class="column">
+    <p><span class="fa fa-twitter"><a href="https://twitter.com/kamilazdybal"> Twitter </a></span></p>
+  </div>
+</div>
 
 -----------------------
 
