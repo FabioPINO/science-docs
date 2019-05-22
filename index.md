@@ -219,7 +219,7 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamilazdyba
 
 <div class="row">
   <div class="column">
-    <p style = "font-family:Charter;font-size:20px;"><span class="fa fa-twitter"><a href="https://twitter.com/kamilazdybal"> Twitter </a></span></p>
+    <p style = "font-family:Helvetica;font-size:24px;"><span class="fa fa-twitter"><a href="https://twitter.com/kamilazdybal"> Twitter </a></span></p>
   </div>
 </div>
 
