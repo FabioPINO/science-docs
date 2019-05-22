@@ -45,7 +45,7 @@ This site is always alive. The PDFs and the associated repositories get updated 
 
 <div class="row">
   <div class="column">
-    <p><span class="fa fa-twitter"><a href="https://twitter.com/kamilazdybal"> Twitter </a></span></p>
+    <p style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;"><span class="fa fa-twitter"><a href="https://twitter.com/kamilazdybal"> Twitter </a></span></p>
   </div>
 </div>
 
