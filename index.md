@@ -44,8 +44,9 @@ img {
 This site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Although mostly it will be small updates like typos, rewording, etc. Any corrections or update proposals are welcome.
 
 <div class="row">
+<div class="row">
   <div class="column">
-    <p style = "font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:16px"><span class="fa fa-twitter"><a href="https://twitter.com/kamilazdybal"> Twitter </a></span></p>
+    <p style = "font-family:'Helvetica Neue', sans-serif;font-size:18px;"><span class="fa fa-twitter"><a href="https://twitter.com/kamilazdybal"> Twitter </a></span></p>
   </div>
 </div>
 
