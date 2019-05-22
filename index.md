@@ -43,12 +43,6 @@ img {
 
 This site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Although mostly it will be small updates like typos, rewording, etc. Any corrections or update proposals are welcome.
 
-<div class="row">
-  <div class="column">
-    <p style = "font-family:'Helvetica Neue', sans-serif;font-size:18px;"><span class="fa fa-twitter"><a href="https://twitter.com/kamilazdybal"> Twitter </a></span></p>
-  </div>
-</div>
-
 -----------------------
 
 # The linear algebra of Principal Component Analysis (with Python examples)
@@ -222,6 +216,12 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamilazdyba
 > *Life is full of uncertainties, and has to be lived according to our best guesses based on the information available to us.*
 >
 > __S. Blundell, K. Blundell - Concepts in Thermal Physics__
+
+<div class="row">
+  <div class="column">
+    <p style = "font-family:Charter;font-size:20px;"><span class="fa fa-twitter"><a href="https://twitter.com/kamilazdybal"> Twitter </a></span></p>
+  </div>
+</div>
 
 -----------------------
 
