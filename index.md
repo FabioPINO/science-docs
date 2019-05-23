@@ -57,7 +57,7 @@ These are notes on the linear algebra aspects of **Principal Component Analysis*
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/PCA/PCA.pdf" target="_blank"> PDF tutorial</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/PCA" target="_blank"> GitHub repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/PCA" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -75,7 +75,7 @@ Well, here it is! In the **Objectif Morse** project you will make an interesting
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf" target="_blank"> PDF tutorial</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/objectif_morse" target="_blank"> GitHub repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/objectif_morse" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -91,7 +91,7 @@ Using two data decomposition methods: **Proper Orthogonal Decomposition** and **
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/vki_short_training/raw/master/final_report/stagiaire_report_kzdybal.pdf" target="_blank"> PDF final report</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/vki_short_training" target="_blank"> GitHub repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/vki_short_training" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -100,7 +100,7 @@ Using two data decomposition methods: **Proper Orthogonal Decomposition** and **
 This is a proof of the associative law for matrices inspired by one of the MIT lectures from a course on Linear Algebra by professor Gilbert Strang.
 
 <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/numerical_methods/raw/master/associative_law/associative_law_proof.pdf" target="_blank"> PDF note</a></h4>
-<h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/numerical_methods/tree/master/associative_law" target="_blank"> GitHub repository</a></h4>
+<h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/numerical_methods/tree/master/associative_law" target="_blank"> Repository</a></h4>
 
 -----------------------
 
@@ -118,7 +118,7 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
     <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/DMD/DWGs/DMD-science-docs.png?raw=true" alt="DMD-notes" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/DMD" target="_blank"> GitHub repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/DMD" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -133,7 +133,7 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
     <a><img src="https://github.com/camillejr/fluid-dynamics/blob/master/fluid-toolbox/cover-fluid-toolbox.png?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/fluid-dynamics/tree/master/fluid-toolbox" target="_blank"> GitHub repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/fluid-dynamics/tree/master/fluid-toolbox" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -150,7 +150,7 @@ This tutorial has been produced after taking two edX courses offered by Delft Un
     <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/trans-phen/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/trans-phen" target="_blank"> GitHub repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/trans-phen" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -168,7 +168,7 @@ Let's paint watercolour Christmas gifts!
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/making-of-christmas-gifts/making-of-christmas-gifts.pdf" target="_blank"> PDF tutorial</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/learning_to_draw_and_paint" target="_blank"> GitHub repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/learning_to_draw_and_paint" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -182,7 +182,7 @@ In this document I show how I apply the thought process to improve my watercolou
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/thought-process/thought-process.pdf" target="_blank"> PDF tutorial</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/learning_to_draw_and_paint" target="_blank"> GitHub repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/learning_to_draw_and_paint" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -196,7 +196,7 @@ This small home experiment is for deriving the temperature vs. time curve for co
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/home-experiments/raw/master/stoves/Stoves.pdf" target="_blank"> PDF tutorial</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/home-experiments/tree/master/stoves" target="_blank"> GitHub repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/home-experiments/tree/master/stoves" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -216,7 +216,7 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamilazdyba
 >
 > __S. Blundell, K. Blundell - Concepts in Thermal Physics__
 
-<h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
+<p style = "font-family:Charter,font-size:20px;"><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></p>
 
 -----------------------
 
