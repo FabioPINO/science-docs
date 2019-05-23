@@ -216,11 +216,8 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamilazdyba
 >
 > __S. Blundell, K. Blundell - Concepts in Thermal Physics__
 
-<h3><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h3>
+<p style = "font-family:Charter;font-size:18px;"><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></p>
 
-<p style = "font-family:Charter;font-size:18px;">
-   I am a fan of LaTeX and camelCase.
-</p>
 
 -----------------------
 
