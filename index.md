@@ -53,7 +53,7 @@ These are notes on the linear algebra aspects of **Principal Component Analysis*
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/PCA/DWGs/PCA-sample.png?raw=true" alt="PCA sample" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/PCA/DWGs/matrix-multiplication-explanation.png?raw=true" alt="PCA sample" style="width:150px"></a>
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/PCA/PCA.pdf" target="_blank"> PDF tutorial</a></h4>
