@@ -45,6 +45,21 @@ This site is always alive. The PDFs and the associated repositories get updated 
 
 -----------------------
 
+# Science posters
+
+## Non-linear regression of chemical source terms using Deep Neural Networks
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal-thumbnail.png?raw=true" alt="DNN-poster-thumbnail" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal.pdf" target="_blank"> PDF poster</a></h4>
+  </div>
+</div>
+
+-----------------------
+
 # The linear algebra of Principal Component Analysis (with Python examples)
 
 These are notes on the linear algebra aspects of **Principal Component Analysis**. PCA is a data reduction technique in which the dimensionality is reduced to maintain only the directions of the largest variance in a data set. The notes are accompanied by several Python computational examples.
