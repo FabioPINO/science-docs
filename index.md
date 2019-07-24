@@ -31,17 +31,15 @@ img {
 }
 </style>
 
-# Hello, welcome to **Science Docs**!
-
 > *À force de croire en ses rêves, l’homme en fait une réalité.*
 >
 > __Hergé__
 
-### I have a dream...
+**Science Docs** is a collection of projects, tutorials, reports and study notes that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called *the pleasure of finding things out*. Many of the materials here are related to my PhD work and I have hope that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and discovery.
 
-**Science Docs** is a collection of **projects**, **tutorials** and **study notes** that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called *the pleasure of finding things out*. I have a dream that the PDFs will now enrich your journey through learning and discovery.
+I ought to make one more note here. This site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Although mostly it will be small updates like typos, rewording, etc. Any corrections or update proposals are welcome.
 
-This site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Although mostly it will be small updates like typos, rewording, etc. Any corrections or update proposals are welcome.
+Please go to the bottom of the page to see **About me** section.
 
 -----------------------
 
@@ -54,7 +52,7 @@ This site is always alive. The PDFs and the associated repositories get updated 
     <a><img src="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal-thumbnail.png?raw=true" alt="DNN-poster-thumbnail" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal.pdf" target="_blank"> PDF poster</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal.pdf" target="_blank"> Poster</a></h4>
   </div>
 </div>
 
@@ -71,7 +69,7 @@ These are notes on the linear algebra aspects of **Principal Component Analysis*
     <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/PCA/DWGs/matrix-multiplication-explanation.png?raw=true" alt="PCA sample" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/PCA/PCA.pdf" target="_blank"> PDF tutorial</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/PCA/PCA.pdf" target="_blank"> Tutorial</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/PCA" target="_blank"> Repository</a></h4>
   </div>
 </div>
@@ -89,7 +87,7 @@ Well, here it is! In the **Objectif Morse** project you will make an interesting
     <a><img src="https://github.com/camillejr/objectif_morse/blob/master/Documentation/cover_obj_morse.jpg?raw=true" alt="cooking_water" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf" target="_blank"> PDF tutorial</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf" target="_blank"> Tutorial</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/objectif_morse" target="_blank"> Repository</a></h4>
   </div>
 </div>
@@ -105,7 +103,7 @@ Using two data decomposition methods: **Proper Orthogonal Decomposition** and **
     <a><img src="https://github.com/camillejr/vki_short_training/blob/master/DWGs/GIF_2D_POD_r3.gif?raw=true" alt="POD_DMD" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/vki_short_training/raw/master/final_report/stagiaire_report_kzdybal.pdf" target="_blank"> PDF final report</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/vki_short_training/raw/master/final_report/stagiaire_report_kzdybal.pdf" target="_blank"> Report</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/vki_short_training" target="_blank"> Repository</a></h4>
   </div>
 </div>
@@ -114,7 +112,7 @@ Using two data decomposition methods: **Proper Orthogonal Decomposition** and **
 
 This is a proof of the associative law for matrices inspired by one of the MIT lectures from a course on Linear Algebra by professor Gilbert Strang.
 
-<h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/numerical_methods/raw/master/associative_law/associative_law_proof.pdf" target="_blank"> PDF note</a></h4>
+<h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/numerical_methods/raw/master/associative_law/associative_law_proof.pdf" target="_blank"> Note</a></h4>
 <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/numerical_methods/tree/master/associative_law" target="_blank"> Repository</a></h4>
 
 -----------------------
@@ -182,7 +180,7 @@ Let's paint watercolour Christmas gifts!
     <a><img src="https://github.com/camillejr/drawing-and-painting/blob/master/making-of-christmas-gifts/DWGs/cover-making-of.jpg?raw=true" alt="making-of" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/making-of-christmas-gifts/making-of-christmas-gifts.pdf" target="_blank"> PDF tutorial</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/making-of-christmas-gifts/making-of-christmas-gifts.pdf" target="_blank"> Tutorial</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/learning_to_draw_and_paint" target="_blank"> Repository</a></h4>
   </div>
 </div>
@@ -196,7 +194,7 @@ In this document I show how I apply the thought process to improve my watercolou
     <a><img src="https://github.com/camillejr/drawing-and-painting/blob/master/thought-process/DWGs/cover_watercolours.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/thought-process/thought-process.pdf" target="_blank"> PDF tutorial</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/thought-process/thought-process.pdf" target="_blank"> Tutorial</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/learning_to_draw_and_paint" target="_blank"> Repository</a></h4>
   </div>
 </div>
@@ -210,7 +208,7 @@ This small home experiment is for deriving the temperature vs. time curve for co
     <a><img src="https://github.com/camillejr/home-experiments/blob/master/stoves/DWGs/all_stoves.png?raw=true" alt="cooking_water" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/home-experiments/raw/master/stoves/Stoves.pdf" target="_blank"> PDF tutorial</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/home-experiments/raw/master/stoves/Stoves.pdf" target="_blank"> Tutorial</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/home-experiments/tree/master/stoves" target="_blank"> Repository</a></h4>
   </div>
 </div>
@@ -221,15 +219,11 @@ This small home experiment is for deriving the temperature vs. time curve for co
 
 Hi, I'm Kamila. I'm currently working as a PhD Researcher at Université libre de Bruxelles in the field that connects combustion, fluid dynamics and data science.
 
-I enjoy inventing my own ways of explaining things and Science Docs is pretty much an aftermath of that. I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*, combined with the recent studies on how the human brain learns most effectively. My aim is to implement that level of understanding into the documents I write. I am also a practitioner of the *active recall* technique and I strongly encourage you to use it as a tool in your learning.
+Since childhood, I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that, a site I always wanted to create. I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*, combined with the recent studies on how the human brain learns most effectively. My aim is to implement that level of understanding into the documents I write. But of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey, make it *your way*. I have hopes that you will find doing science fascinating, rewarding and inspiring.
 
-Apart from that, my motivation for sharing the knowledge is spreading the Feynman's: *pleasure of finding things out*. I have hopes that you will find doing science fascinating, rewarding and inspiring.
+Apart from science I enjoy watercolour sketching, running and living in Belgium.
 
-If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com`
-
-> *Life is full of uncertainties, and has to be lived according to our best guesses based on the information available to us.*
->
-> __S. Blundell, K. Blundell - Concepts in Thermal Physics__
+If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com` (personal mail) or `kamila.zdybal@ulb.be` (university mail).
 
 <h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
 
