@@ -31,30 +31,17 @@ img {
 }
 </style>
 
+# Hello, welcome to Science Docs!
+
 > *À force de croire en ses rêves, l’homme en fait une réalité.*
 >
 > __Hergé__
 
 **Science Docs** is a collection of projects, tutorials, reports and study notes that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called *the pleasure of finding things out*. Many of the materials here are related to my PhD work and I have hope that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and discovery.
 
-I ought to make one more note here. This site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Although mostly it will be small updates like typos, rewording, etc. Any corrections or update proposals are welcome.
+I ought to make one more note here: this site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Although mostly it will be small updates like typos, rewording, etc. Any corrections or update proposals are welcome.
 
-Please go to the bottom of the page to see **About me** section.
-
------------------------
-
-# Science posters
-
-## Non-linear regression of chemical source terms using Deep Neural Networks
-
-<div class="row">
-  <div class="column">
-    <a><img src="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal-thumbnail.png?raw=true" alt="DNN-poster-thumbnail" style="width:150px"></a>
-  </div>
-  <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal.pdf" target="_blank"> Poster</a></h4>
-  </div>
-</div>
+Please go to the bottom of the page for a small **About me** section.
 
 -----------------------
 
@@ -226,6 +213,21 @@ Apart from science I enjoy watercolour sketching, running and living in Belgium.
 If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com` (personal mail) or `kamila.zdybal@ulb.be` (university mail).
 
 <h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
+
+-----------------------
+
+# Science posters
+
+## Non-linear regression of chemical source terms using Deep Neural Networks
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal-thumbnail.png?raw=true" alt="DNN-poster-thumbnail" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal.pdf" target="_blank"> Poster</a></h4>
+  </div>
+</div>
 
 -----------------------
 
