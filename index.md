@@ -99,8 +99,15 @@ Using two data decomposition methods: **Proper Orthogonal Decomposition** and **
 
 This is a proof of the associative law for matrices inspired by one of the MIT lectures from a course on Linear Algebra by professor Gilbert Strang.
 
-<h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/numerical_methods/raw/master/associative_law/associative_law_proof.pdf" target="_blank"> Note</a></h4>
-<h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/numerical_methods/tree/master/associative_law" target="_blank"> Repository</a></h4>
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/numerical_methods/raw/master/associative_law/proof-of-associative-law-thumbnail.png?raw=true" alt="MIT-G-Strang" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/numerical_methods/raw/master/associative_law/associative_law_proof.pdf" target="_blank"> Note</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/numerical_methods/tree/master/associative_law" target="_blank"> Repository</a></h4>
+  </div>
+</div>
 
 -----------------------
 
