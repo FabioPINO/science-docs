@@ -26,3 +26,13 @@ Short infos on textbooks that I'm reading during my PhD. Review on important inf
 | PhD utility | High |
 | Insight | High |
 | Personal profit | High |
+
+## `I. T. Jolliffe - Principal Component Analysis`
+
+| Pages | 500 |
+| Math amount | Some, medium (linear algebra mostly) |
+| PhD utility | High |
+| Insight | Medium |
+| Personal profit | High |
+
+- Chapter 11 - Rotation of Principal Components to aid the interpretation
