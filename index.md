@@ -226,7 +226,7 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamilazdyba
 # Science posters
 
 <div class="row">
-    <a href="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal.pdf" target="_blank"><img src="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal-thumbnail.png?raw=true" alt="DNN-poster-thumbnail" style="width:500px"></a>
+    <a href="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal.pdf" target="_blank"><img src="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal-thumbnail.png?raw=true" alt="DNN-poster-thumbnail" style="width:800px"></a>
 </div>
 
 -----------------------
