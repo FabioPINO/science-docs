@@ -225,11 +225,9 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamilazdyba
 
 # Science posters
 
-## Non-linear regression of chemical source terms using Deep Neural Networks
-
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal-thumbnail.png?raw=true" alt="DNN-poster-thumbnail" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal-thumbnail.png?raw=true" alt="DNN-poster-thumbnail" style="width:500px"></a>
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal.pdf" target="_blank"> Poster</a></h4>
