@@ -63,7 +63,7 @@ These are notes on the linear algebra aspects of **Principal Component Analysis*
 
 # Objectif Morse
 
-Did you ever have this idea: what if there were two computers talking to each other using Morse code? One would send a message with light signals and the other would collect the light and understand the message? No cable connecting the computers. The information simply carried by light that travels through the air.
+Have you ever had this idea: what if there were two computers talking to each other using Morse code? One would send a message with light signals and the other would collect the light and understand the message? No cable connecting the computers. The information simply carried by light that travels through the air.
 
 Well, here it is! In the **Objectif Morse** project you will make an interesting use of Arduino, electronic circuits and C++ while transmitting messages in Morse alphabet between computers.
 
