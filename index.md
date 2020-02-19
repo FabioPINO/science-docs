@@ -39,7 +39,7 @@ img {
 
 **Science Docs** is a collection of projects, tutorials, reports and study notes that are the product of most of my passion that I have for life, Universe and everything else. They are aimed for explorers and experimenters who are willing to study scientific or engineering subjects with what Richard Feynman called *the pleasure of finding things out*. Many of the materials here are related to my PhD work and I have hope that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and discovery.
 
-I ought to make one more note here: this site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Although mostly it will be small updates like typos, rewording, etc. Any corrections or update proposals are welcome.
+I ought to make one more note here: this site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Any corrections or update proposals are welcome.
 
 Please go to the bottom of the page for a small **About me** section.
 
@@ -47,7 +47,7 @@ Please go to the bottom of the page for a small **About me** section.
 
 # The linear algebra of Principal Component Analysis (with Python examples)
 
-These are notes on the linear algebra aspects of **Principal Component Analysis**. PCA is a data reduction technique in which the dimensionality is reduced to maintain only the directions of the largest variance in a data set. The notes are accompanied by several Python computational examples.
+These are notes on linear algebra aspects of **Principal Component Analysis** with a little bit more insight then you would typically get when reading about PCA from online tutorials. The notes are accompanied by several Python computational examples.
 
 <sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
 
@@ -63,7 +63,7 @@ These are notes on the linear algebra aspects of **Principal Component Analysis*
 
 # Objectif Morse
 
-Have you ever had this idea: what if there were two computers talking to each other using Morse code? One would send a message with light signals and the other would collect the light and understand the message? No cable connecting the computers. The information simply carried by light that travels through the air.
+Did you ever wonder what if there were two computers talking to each other using Morse code? One would send a message with light signals and the other would collect the light and understand the message? No cable connecting the computers. The information simply carried by light that travels through the air.
 
 Well, here it is! In the **Objectif Morse** project you will make an interesting use of Arduino, electronic circuits and C++ while transmitting messages in Morse alphabet between computers.
 
@@ -97,7 +97,9 @@ Using two data decomposition methods: **Proper Orthogonal Decomposition** and **
 
 # Proof of associative law for matrices
 
-This is a proof of the associative law for matrices inspired by one of the MIT lectures from a course on Linear Algebra by professor Gilbert Strang.
+I was reviewing the amazing MIT course on linear algebra. When the associative law appeared on the blackboard, Professor Gilbert Strang said: *It’s not that easy to prove that this is correct. You have to go into the gory details of matrix multiplication, do it both ways and see that you come out the same.*
+
+So I said: *let’s do it!*
 
 <div class="row">
   <div class="column">
@@ -211,23 +213,15 @@ This small home experiment is for deriving the temperature vs. time curve for co
 
 # About me
 
-Hi, I'm Kamila. I'm currently working as a PhD Researcher at Université libre de Bruxelles in the field that connects combustion, fluid dynamics and data science.
+Hi, I'm Kamila. I'm currently working as a PhD Researcher at Université libre de Bruxelles & The University of Utah in the field that connects combustion, fluid dynamics and data science.
 
-Since childhood, I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that, a site I always wanted to create. I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*, combined with the recent studies on how the human brain learns most effectively. My aim is to implement that level of understanding into the documents I write. But of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey, make it *your way*. I have hopes that you will find doing science fascinating, rewarding and inspiring.
+Since childhood, I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that, a site I always wanted to create.
 
-Apart from science I enjoy watercolour sketching, running and living in Belgium.
+When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write. But of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey, make it *your way*. Experiment, sniff around and make as many mistakes as you go - as Richard Feynman said: *study hard what interests you the most in the most undisciplined, irreverent and original manner possible*. I have hopes that you will find doing science fascinating, rewarding and inspiring!
 
 If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com` (personal mail) or `kamila.zdybal@ulb.be` (university mail).
 
 <h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
-
------------------------
-
-# Science posters
-
-<div class="row">
-    <a href="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal.pdf" target="_blank"><img src="https://github.com/camillejr/ulb-atm-phd/raw/master/posters/non-linear-regression-of-chemical-source-terms-using-DNN-kamila-zdybal-thumbnail.png?raw=true" alt="DNN-poster-thumbnail" style="width:800px"></a>
-</div>
 
 -----------------------
 
