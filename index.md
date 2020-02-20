@@ -41,8 +41,6 @@ img {
 
 I ought to make one more note here: this site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Any corrections or update proposals are welcome.
 
-Please go to the bottom of the page for a small **About me** section.
-
 -----------------------
 
 # The linear algebra of Principal Component Analysis (with Python examples)
