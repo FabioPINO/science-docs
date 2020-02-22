@@ -148,7 +148,7 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
 
 I collected few interesting computational examples in transport phenomena in a form of a tutorial and created a set of Python codes to accompany a better understanding of the results.
 
-This tutorial has been produced after taking two edX courses offered by Delft University: *The Basics of Transport Phenomena* and *Advanced Transport Phenomena*.
+This tutorial has been produced after taking two wonderful courses offered by Delft University: *The Basics of Transport Phenomena* and *Advanced Transport Phenomena*.
 
 <sup>This PDF is still under construction...</sup>
 
@@ -211,11 +211,11 @@ This small home experiment is for deriving the temperature vs. time curve for co
 
 # About me
 
-Hi, I'm Kamila. I'm currently working as a PhD Researcher at Université libre de Bruxelles & The University of Utah in the field that connects combustion, fluid dynamics and data science.
+Hi, I'm Kamila and I'm currently working as a PhD researcher at Université libre de Bruxelles and The University of Utah in the field that connects combustion, fluid dynamics and data science.
 
-Since childhood, I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that, a site I always wanted to create.
+Since childhood, I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that, a site that I always wanted to create.
 
-When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write. But of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey, make it *your way*. Experiment, sniff around and make many mistakes as you go - or as Richard Feynman said: *study hard what interests you the most in the most undisciplined, irreverent and original manner possible*. I have hopes that you will find doing science fascinating, rewarding and inspiring!
+When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write (although many times I will assume certain pre-requisites that your grandmother should have). But of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey, make it *your way*. Experiment, sniff around and make many mistakes as you go - or as Richard Feynman said: *study hard what interests you the most in the most undisciplined, irreverent and original manner possible*. I have hopes that you will find doing science fascinating, rewarding and inspiring!
 
 If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com` (personal mail) or `kamila.zdybal@ulb.be` (university mail).
 
