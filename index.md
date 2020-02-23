@@ -109,6 +109,23 @@ So I said: *let’s do it!*
   </div>
 </div>
 
+
+# Notes on Gaussian Process Regression
+
+Following a great [lecture](https://www.youtube.com/watch?v=UpsV1y6wMQ8) by Professor Anna Scaife I decided to reproduce her figures and write a small note on Gaussian Process Regression (GPR).
+
+<sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/GPR/DWGs/thumbnail.png?raw=true" alt="transport_phenomena" style="width:150px"></a>
+  </div>
+  <div class="column">
+  <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/GPR/GPR.pdf" target="_blank"> Note</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/GPR" target="_blank"> Repository</a></h4>
+  </div>
+</div>
+
 -----------------------
 
 ## Under construction
@@ -161,20 +178,7 @@ This tutorial has been produced after taking two wonderful courses offered by De
   </div>
 </div>
 
-# Gaussian Process Regression
 
-Following a great [lecture](https://www.youtube.com/watch?v=UpsV1y6wMQ8) by Professor Anna Scaife I decided to reproduce her figures and write a small note on Gaussian Process Regression (GPR).
-
-<sup>This PDF is still under construction...</sup>
-
-<div class="row">
-  <div class="column">
-    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/GPR/DWGs/thumbnail.png?raw=true" alt="transport_phenomena" style="width:150px"></a>
-  </div>
-  <div class="column">
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/GPR" target="_blank"> Repository</a></h4>
-  </div>
-</div>
 
 
 -----------------------
