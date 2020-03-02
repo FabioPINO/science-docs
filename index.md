@@ -198,7 +198,6 @@ Let's paint watercolour Christmas gifts!
 <div class="row">
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/making-of-christmas-gifts/making-of-christmas-gifts.pdf" target="_blank"> Tutorial</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/learning_to_draw_and_paint" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -209,7 +208,6 @@ In this document I show how I apply the thought process to improve my watercolou
 <div class="row">
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/thought-process/thought-process.pdf" target="_blank"> Tutorial</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/learning_to_draw_and_paint" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -220,7 +218,6 @@ This small home experiment is for deriving the temperature vs. time curve for co
 <div class="row">
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/home-experiments/raw/master/stoves/Stoves.pdf" target="_blank"> Tutorial</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/home-experiments/tree/master/stoves" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
