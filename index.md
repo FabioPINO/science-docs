@@ -44,7 +44,7 @@ I ought to make one more note here: this site is always alive. The PDFs and the 
 > *À force de croire en ses rêves, l’homme en fait une réalité.*
 >
 > *(By believing in our dreams we make them a reality.)*
-> 
+>
 > __Hergé__
 
 -----------------------
@@ -197,9 +197,6 @@ Let's paint watercolour Christmas gifts!
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/drawing-and-painting/blob/master/making-of-christmas-gifts/DWGs/cover-making-of.jpg?raw=true" alt="making-of" style="width:150px"></a>
-  </div>
-  <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/making-of-christmas-gifts/making-of-christmas-gifts.pdf" target="_blank"> Tutorial</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/learning_to_draw_and_paint" target="_blank"> Repository</a></h4>
   </div>
@@ -211,9 +208,6 @@ In this document I show how I apply the thought process to improve my watercolou
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/drawing-and-painting/blob/master/thought-process/DWGs/cover_watercolours.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
-  </div>
-  <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/thought-process/thought-process.pdf" target="_blank"> Tutorial</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/learning_to_draw_and_paint" target="_blank"> Repository</a></h4>
   </div>
@@ -224,9 +218,6 @@ In this document I show how I apply the thought process to improve my watercolou
 This small home experiment is for deriving the temperature vs. time curve for cooking water on three types of stoves: electrical, induction and gas.
 
 <div class="row">
-  <div class="column">
-    <a><img src="https://github.com/camillejr/home-experiments/blob/master/stoves/DWGs/all_stoves.png?raw=true" alt="cooking_water" style="width:150px"></a>
-  </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/home-experiments/raw/master/stoves/Stoves.pdf" target="_blank"> Tutorial</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/home-experiments/tree/master/stoves" target="_blank"> Repository</a></h4>
