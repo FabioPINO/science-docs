@@ -43,8 +43,6 @@ I ought to make one more note here: this site is always alive. The PDFs and the 
 
 > *À force de croire en ses rêves, l’homme en fait une réalité.*
 >
-> *(By believing in our dreams we make them a reality.)*
->
 > __Hergé__
 
 -----------------------
