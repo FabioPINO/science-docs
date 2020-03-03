@@ -99,7 +99,7 @@ Using two data decomposition methods: **Proper Orthogonal Decomposition** and **
 
 # Proof of associative law for matrices
 
-I was reviewing the amazing MIT course on linear algebra. When the associative law appeared on the blackboard, Professor Gilbert Strang said: *It’s not that easy to prove that this is correct. You have to go into the gory details of matrix multiplication, do it both ways and see that you come out the same.*
+I was reviewing the amazing MIT course on linear algebra. When the associative law appeared on the blackboard, Professor Strang said: *It’s not that easy to prove that this is correct. You have to go into the gory details of matrix multiplication, do it both ways and see that you come out the same.*
 
 So I said: *let’s do it!*
 
