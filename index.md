@@ -85,7 +85,7 @@ Well, here it is! In the **Objectif Morse** project you will make an interesting
 
 Using two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**, as well as concepts from linear algebra and dynamical systems within Matlab scripts, I searched for low-rank structures in the pulsating Poiseuille flow and in the velocity field of the flow behind a cylinder.
 
-<sup>This work has been produced as part of the Short Training Programme at the von Karman Institute for Fluid Dynamics.</sup>
+<sup>This work has been produced as part of the Short Training Programme at the von Karman Institute for Fluid Dynamics, under supervision of Professor Miguel A. Mendez.</sup>
 
 <div class="row">
   <div class="column">
