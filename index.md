@@ -89,11 +89,11 @@ Using two data decomposition methods: **Proper Orthogonal Decomposition** and **
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/vki_short_training/blob/master/DWGs/GIF_2D_POD_r3.gif?raw=true" alt="POD_DMD" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/POD-DMD-decompositions/blob/master/DWGs/GIF_2D_POD_r3.gif?raw=true" alt="POD_DMD" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/vki_short_training/raw/master/final_report/stagiaire_report_kzdybal.pdf" target="_blank"> Report</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/vki_short_training" target="_blank"> Repository</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/POD-DMD-decompositions/raw/master/final-report/stagiaire_report_kzdybal.pdf" target="_blank"> Report</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/POD-DMD-decompositions" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
