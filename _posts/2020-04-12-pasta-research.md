@@ -17,6 +17,10 @@ Here are some results from our previous research efforts:
   <img src="https://github.com/camillejr/penguin-mailing-list/raw/master/pasta-research/lengthTime.png">
 </p>
 
+> **Figure 1.** Elongation of spaghetto with the time of cooking.
+
 <p align="center">
   <img src="https://github.com/camillejr/penguin-mailing-list/raw/master/pasta-research/resistanceTime.png">
 </p>
+
+> **Figure 2.** Change of electrical resistance of spaghetto with the time of cooking.
