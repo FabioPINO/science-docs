@@ -221,6 +221,12 @@ This small home experiment is for deriving the temperature vs. time curve for co
 
 -----------------------
 
+# Tools
+
+## [Standard Atmosphere Calculator](https://camillejr.github.io/standard-atmosphere-calculator/standard-atmosphere-calculator.html)
+
+-----------------------
+
 # About me
 
 Hi, I'm Kamila and I'm currently working as a PhD researcher at Université libre de Bruxelles and The University of Utah in the field that connects combustion, fluid dynamics and data science.
