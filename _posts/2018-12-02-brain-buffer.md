@@ -5,6 +5,8 @@ date:   2018-12-01 15:00:00 +0100
 categories: jekyll update
 ---
 
+[< Go back](https://camillejr.github.io/science-docs/)
+
 # On data buffers and remembering dreams
 
 Here are two events.

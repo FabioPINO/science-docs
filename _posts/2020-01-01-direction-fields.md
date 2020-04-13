@@ -5,6 +5,8 @@ date:   2020-01-01 15:00:00 +0100
 categories: jekyll update
 ---
 
+[< Go back](https://camillejr.github.io/science-docs/)
+
 # The fascinating story of direction fields
 
 The fascinating thing about direction fields of differential equations is that they resemble looking at a painting through a hole in a needle. You can see each portion of the painting very well, you can see the colours, maybe the texture; you can even be able to connect the nearby frames into one piece, but you can never get the final complete impression of what the painting looks like.

@@ -5,6 +5,8 @@ date:   2018-07-28 15:00:00 +0100
 categories: jekyll update
 ---
 
+[< Go back](https://camillejr.github.io/science-docs/)s
+
 # Letter variance
 
 I thought recently about english words and a playful idea to shortcut words in writing by eliminating vowels.

@@ -5,6 +5,8 @@ date:   2019-11-01 15:00:00 +0100
 categories: jekyll update
 ---
 
+[< Go back](https://camillejr.github.io/science-docs/)
+
 # Relations
 
 When I first learned the definition of a relation: *Relation is a subset of the Cartesian product X × X* my reaction was: really? That's it? That's enough to define a relation?
