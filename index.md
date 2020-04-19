@@ -225,11 +225,9 @@ This small home experiment is for deriving the temperature vs. time curve for co
 
 # About me
 
-Hi, I'm Kamila and I'm currently working as a PhD researcher at Université libre de Bruxelles. Since childhood, I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that, a site that I always wanted to create.
+Hi, I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles. Since childhood, I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that, a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write - although many times I will assume certain prerequisites that your grandmother should have. But of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey. I have hopes that you will find doing science fascinating, rewarding and inspiring!
 
-When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write - although many times I will assume certain prerequisites that your grandmother should have). But of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey. I have hopes that you will find doing science fascinating, rewarding and inspiring!
-
-If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal@gmail.com` (personal mail) or `kamila.zdybal@ulb.be` (university mail).
+If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal at gmail.com` (personal mail) or `kamila.zdybal at ulb.be` (university mail).
 
 <h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
 
