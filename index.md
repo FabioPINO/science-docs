@@ -179,47 +179,12 @@ This tutorial has been produced after taking two wonderful courses offered by De
 </div>
 
 
-
-
 -----------------------
 
-## A (bit) less scientific section
-
-# Making-of: watercolour Christmas gifts
-
-Let's paint watercolour Christmas gifts!
-
-<div class="row">
-  <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/making-of-christmas-gifts/making-of-christmas-gifts.pdf" target="_blank"> Tutorial</a></h4>
-  </div>
-</div>
-
-# Thought process in watercolours
-
-In this document I show how I apply the thought process to improve my watercolour paintings.
-
-<div class="row">
-  <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/drawing-and-painting/raw/master/thought-process/thought-process.pdf" target="_blank"> Tutorial</a></h4>
-  </div>
-</div>
-
-# Cooking water
-
-This small home experiment is for deriving the temperature vs. time curve for cooking water on three types of stoves: electrical, induction and gas.
-
-<div class="row">
-  <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/home-experiments/raw/master/stoves/Stoves.pdf" target="_blank"> Tutorial</a></h4>
-  </div>
-</div>
-
------------------------
 
 # Tools
 
-## [Standard Atmosphere Calculator](https://camillejr.github.io/standard-atmosphere-calculator/standard-atmosphere-calculator.html)
+## [Standard Atmosphere Calculator](https://camillejr.github.io/Tools/standard-atmosphere-calculator.html)
 
 -----------------------
 
