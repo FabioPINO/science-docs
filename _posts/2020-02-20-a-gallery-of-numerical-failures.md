@@ -14,5 +14,5 @@ Since quite some time I've been willing to create a *gallery of numerical failur
 For the moment, enjoy the possible way in which Euler method can fail if you just happened to select your delta x equal to half the period of a trigonometric function!
 
 <p align="center">
-  <img src="https://github.com/camillejr/numerical-methods/raw/master/euler_method/euler_method_sin_unfortunate.png">
+  <img src="https://github.com/camillejr/numerical-methods/raw/master/numerical-integration/euler-runge-kutta-4th-order-comparison.png">
 </p>
