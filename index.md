@@ -101,11 +101,11 @@ So I said: *let’s do it!*
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/numerical_methods/raw/master/associative_law/proof-of-associative-law-thumbnail.png?raw=true" alt="MIT-G-Strang" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/linear-algebra/raw/master/proof-of-associative-law/proof-of-associative-law-thumbnail.png?raw=true" alt="MIT-G-Strang" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/numerical_methods/raw/master/associative_law/associative_law_proof.pdf" target="_blank"> Note</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/numerical_methods/tree/master/associative_law" target="_blank"> Repository</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/linear-algebra/raw/master/proof-of-associative-law/proof-of-associative-law.pdf" target="_blank"> Note</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/linear-algebra/" target="_blank"> Linear Algebra Repository</a></h4>
   </div>
 </div>
 
