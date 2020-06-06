@@ -139,9 +139,6 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
   <div class="column">
     <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/DMD/DWGs/DMD-science-docs.png?raw=true" alt="DMD-notes" style="width:150px"></a>
   </div>
-  <div class="column">
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/DMD" target="_blank"> Repository</a></h4>
-  </div>
 </div>
 
 # Fluid Toolbox
@@ -153,9 +150,6 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
 <div class="row">
   <div class="column">
     <a><img src="https://github.com/camillejr/fluid-dynamics/blob/master/fluid-toolbox/cover-fluid-toolbox.png?raw=true" alt="transport_phenomena" style="width:150px"></a>
-  </div>
-  <div class="column">
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/fluid-dynamics/tree/master/fluid-toolbox" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -170,9 +164,6 @@ This tutorial has been produced after taking two wonderful courses offered by De
 <div class="row">
   <div class="column">
     <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/trans-phen/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
-  </div>
-  <div class="column">
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/trans-phen" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
