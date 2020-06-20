@@ -41,6 +41,16 @@ img {
 
 -----------------------
 
+# The tensor necessity - why do we need tensors in fluid dynamics?
+
+Coming soon!
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/camillejr/science-docs/blob/master/drawings/tensor-necessity.png?raw=true" alt="tensor_necessity" style="width:150px"></a>
+  </div>
+</div>
+
 # The linear algebra of Principal Component Analysis (with Python examples)
 
 These are notes on linear algebra aspects of **Principal Component Analysis** with a little bit more insight then you would typically get when reading about PCA from online tutorials. The notes are accompanied by several Python computational examples.
