@@ -43,7 +43,7 @@ img {
 
 # The tensor necessity
 
-At first encounter, tensors can seem like strange mathematical objects. It can be challenging to grasp their meaning and their relevance might not be immediately obvious. At the same time, tensors are indispens- able when studying fluid dynamics. So what’s with the tensors and why do we need them?
+At first encounter, tensors can seem like strange mathematical objects. It can be challenging to grasp their meaning and their relevance might not be immediately obvious. At the same time, tensors are indispensable when studying fluid dynamics. So what's with the tensors and why do we need them?
 
 *This is a beta version of an article. You can help me make it better by spotting errors or suggesting improvements!*
 
