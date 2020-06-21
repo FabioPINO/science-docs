@@ -41,13 +41,21 @@ img {
 
 -----------------------
 
-# The tensor necessity - why do we need tensors in fluid dynamics?
+# The tensor necessity
 
-Coming soon!
+At first encounter, tensors can seem like strange mathematical objects. It can be challenging to grasp their meaning and their relevance might not be immediately obvious. At the same time, tensors are indispens- able when studying fluid dynamics. So what’s with the tensors and why do we need them?
+
+*This is a beta version of an article. You can help me make it better by spotting errors or suggesting improvements!*
+
+<sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/science-docs/blob/master/drawings/tensor-necessity.png?raw=true" alt="tensor_necessity" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/fluid-dynamics/blob/master/tensor-necessity/plots/thumbnail.png?raw=true" alt="Tensor-necessity" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/fluid-dynamics/raw/master/tensor-necessity/tensor-necessity.pdf" target="_blank"> Article</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/fluid-dynamics/tree/master/tensor-necessity" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
