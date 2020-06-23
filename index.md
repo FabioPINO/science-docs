@@ -42,6 +42,7 @@ img {
 -----------------------
 
 # The tensor necessity
+## - a short story about momentum transport in fluids
 
 At first encounter, tensors can seem like strange mathematical objects. It can be challenging to grasp their meaning and their relevance might not be immediately obvious. At the same time, tensors are indispensable when studying fluid dynamics. So what's with the tensors and why do we need them?
 
