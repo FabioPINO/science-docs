@@ -204,11 +204,7 @@ I ought to make one more note here: this site is always alive. The PDFs and the 
 
 If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdybal at gmail.com` (personal mail) or `kamila.zdybal at ulb.ac.be` (university mail).
 
-<div class="row">
-  <div class="column">
-    <a><img src="https://github.com/camillejr/science-docs/blob/master/_posts/kamila.jpg?raw=true" alt="about-me" style="width:300px"></a>
-  </div>
-</div>
+<img src="https://github.com/camillejr/science-docs/blob/master/_posts/kamila.jpg?raw=true" alt="about-me" style="width:300px">
 
 <h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
 
