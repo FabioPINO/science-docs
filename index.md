@@ -198,6 +198,12 @@ This tutorial has been produced after taking two wonderful courses offered by De
 
 # About
 
+<div class="row">
+  <div class="column">s
+    <a><img src="https://github.com/camillejr/science-docs/blob/master/_posts/kamila.jpg?raw=true" alt="about-me" style="width:150px"></a>
+  </div>
+</div>
+
 Hi, I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles. Since childhood, I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that, a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write - although many times I assume certain prerequisites that your grandmother should have. Of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey. I have hopes that you will find doing science fascinating, rewarding and inspiring!
 
 I ought to make one more note here: this site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Any corrections or update proposals are welcome.
