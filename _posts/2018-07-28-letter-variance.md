@@ -5,7 +5,7 @@ date:   2018-07-28 15:00:00 +0100
 categories: jekyll update
 ---
 
-[< Go back](https://camillejr.github.io/science-docs/)s
+[< Go back](https://camillejr.github.io/science-docs/)
 
 # Letter variance
 

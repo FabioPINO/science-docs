@@ -9,6 +9,10 @@ categories: jekyll update
 
 # Pasta research
 
-One of my research interests include studying mechanical and thermo-physical properties of pasta. This research was initiated with my long-time Italian partner [Stefano Boccelli](http://boccelliengineering.altervista.org/). After an experimental campaign to determine the Young modulus of spaghetti, our direction shifted towards studying pasta in a more squishy state. In particular, we have studied the elongation of a spaghetto as well as changes in electrical resistance with the time of cooking.
+One of my research interests include studying mechanical and thermo-physical properties of pasta. This research was initiated with my long-time Italian collaborator [Stefano Boccelli](http://boccelliengineering.altervista.org/). After an experimental campaign to determine the Young modulus of spaghetti, our direction shifted towards studying pasta in a more squishy state. In particular, we studied the elongation of a spaghetto and changes in electrical resistance with the time of cooking.
 
 Please contact us if you would like to collaborate on any of these research topics.
+
+<p align="center">
+  <img src="https://github.com/camillejr/science-docs/raw/master/_posts/young-modulus-of-pasta.jpg">
+</p>
