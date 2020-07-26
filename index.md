@@ -212,7 +212,7 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdyb
 
 # Science blog & thoughts
 
-<ul>
+<ul id="science_blog_and_thoughts">
   {% for post in site.posts %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
