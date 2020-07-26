@@ -49,12 +49,11 @@ A computational example of steady-state heat conduction in a lengthwise-insulate
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/steady-state-heat-conduction.png?raw=true" alt="Heat-conduction" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/plots/steady-state-heat-conduction.png?raw=true" alt="Heat-conduction" style="width:150px"></a>
   </div>
 </div>
 
-# The tensor necessity
-## - a short story about momentum transport in fluids
+# The tensor necessity - a short story about momentum transport in fluids
 
 At first encounter, tensors can seem like strange mathematical objects. It can be challenging to grasp their meaning and their relevance might not be immediately obvious. At the same time, tensors are indispensable when studying fluid dynamics. So what's with the tensors and why do we need them?
 
@@ -194,7 +193,7 @@ This tutorial has been produced after taking two wonderful courses offered by De
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/plots/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
 </div>
 
