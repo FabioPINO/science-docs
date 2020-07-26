@@ -5,7 +5,11 @@ date:   2019-03-05 00:11:00 +0100
 categories: jekyll update
 ---
 
-[< Go back](https://camillejr.github.io/science-docs/)
+<p>
+   <a href="/science-docs/#science_blog_and_thoughts">
+      < Go back
+  </a>
+</p>
 
 # Everything was created in a Big Bang
 

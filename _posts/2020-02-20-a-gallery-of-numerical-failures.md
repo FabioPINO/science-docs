@@ -5,7 +5,11 @@ date:   2020-02-20 15:00:00 +0100
 categories: jekyll update
 ---
 
-[< Go back](https://camillejr.github.io/science-docs/)
+<p>
+   <a href="/science-docs/#science_blog_and_thoughts">
+      < Go back
+  </a>
+</p>
 
 # A gallery of numerical failures
 
