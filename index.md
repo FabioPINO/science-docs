@@ -168,7 +168,7 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/fluid-dynamics/blob/master/fluid-toolbox/cover-fluid-toolbox.png?raw=true" alt="transport_phenomena" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/fluid-toolbox/cover-fluid-toolbox.png?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
 </div>
 
@@ -182,13 +182,11 @@ This tutorial has been produced after taking two wonderful courses offered by De
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/trans-phen/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
 </div>
 
-
 -----------------------
-
 
 # Tools
 
