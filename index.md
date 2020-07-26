@@ -49,7 +49,7 @@ A computational example of steady-state heat conduction in a lengthwise-insulate
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/plots/steady-state-heat-conduction.png?raw=true" alt="Heat-conduction" style="width:150px"></a>
+    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/steady-state-heat-conduction.png?raw=true" alt="Heat-conduction" style="width:150px"></a>
   </div>
 </div>
 
