@@ -43,7 +43,7 @@ img {
 
 # Steady-state heat conduction
 
-A computational example of steady-state heat conduction in a lengthwise-insulated rod with internal heat production.
+A computational example of steady-state heat conduction in a lengthwise-insulated rod with internal heat production spiced up with a bit of Python!
 
 <sup>This PDF is still under construction. Check back soon!</sup>
 
