@@ -229,7 +229,7 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdyb
   {% endfor %}
 </ul>
 
-<a href="https://info.flagcounter.com/vod8"><img src="https://s11.flagcounter.com/count2/vod8/bg_FFFFFF/txt_000000/border_FFFFFF/columns_4/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/vod8"><img src="https://s11.flagcounter.com/count2/vod8/bg_FFFFFF/txt_000000/border_FFFFFF/columns_4/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" style="width:500px"></a>
 
 <footer class="site-footer">
 
