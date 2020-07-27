@@ -229,6 +229,8 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdyb
   {% endfor %}
 </ul>
 
+<a href="https://info.flagcounter.com/vod8"><img src="https://s11.flagcounter.com/count2/vod8/bg_FFFFFF/txt_000000/border_FFFFFF/columns_4/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 <footer class="site-footer">
 
   <span class="site-footer-credits">This site uses: <a href="https://github.com/lorepirri/cayman-blog">Cayman Blog Theme</a>  by Lorenzo Pirritano (@lorepirri)  | <a href="https://github.com/lorepirri/cayman-blog/blob/master/LICENSE">Licence</a>: Creative Commons Attribution 1.0 International </span>
