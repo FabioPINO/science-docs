@@ -233,7 +233,7 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdyb
 
 <div id="sfc78tu8xqu3t8ch9dytll5ese12x1qynzy"></div>
 <script type="text/javascript" src="https://counter3.stat.ovh/private/counter.js?c=78tu8xqu3t8ch9dytll5ese12x1qynzy&down=async" async></script>
-<br><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=78tu8xqu3t8ch9dytll5ese12x1qynzy" border="0" title="web page counter" alt="web page counter"></a></noscript>
+<br><noscript><a href="https://www.freecounterstat.com" title="web page counter"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=78tu8xqu3t8ch9dytll5ese12x1qynzy" border="0" title="web page counter" alt="web page counter"></a></noscript>
 
 Thanks for leaving a flag!
 
