@@ -71,7 +71,6 @@ At first encounter, tensors can seem like strange mathematical objects. It can b
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/raw/master/tensor-necessity/tensor-necessity.pdf" target="_blank"> Article</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/tree/master/tensor-necessity" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -87,7 +86,6 @@ These are notes on linear algebra aspects of **Principal Component Analysis** wi
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/PCA/PCA.pdf" target="_blank"> Tutorial</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/PCA" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -137,10 +135,8 @@ So I said: *let’s do it!*
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/linear-algebra/raw/master/proof-of-associative-law/proof-of-associative-law.pdf" target="_blank"> Note</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/linear-algebra/" target="_blank"> Linear Algebra Repository</a></h4>
   </div>
 </div>
-
 
 # Notes on Gaussian Process Regression
 
@@ -154,7 +150,6 @@ Following a great [lecture](https://www.youtube.com/watch?v=UpsV1y6wMQ8) by Prof
   </div>
   <div class="column">
   <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/GPR/GPR.pdf" target="_blank"> Note</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/ulb-atm-phd/tree/master/GPR" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
