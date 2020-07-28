@@ -45,8 +45,6 @@ img {
 
 A computational example of steady-state heat conduction in a lengthwise-insulated rod with internal heat production spiced up with a bit of Python!
 
-<sup>This PDF is still under construction. Check back soon!</sup>
-
 <div class="row">
   <div class="column">
     <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/plots/steady-state-heat-conduction.png?raw=true" alt="Heat-transfer" style="width:150px"></a>
