@@ -53,11 +53,9 @@ A computational example of steady-state heat conduction in a lengthwise-insulate
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/raw/master/transport-phenomena-with-Python/example-heat-transfer-in-a-rod.pdf" target="_blank"> Tutorial</a></h4>
-    <h4><span class="fa fa-python"></span><a href="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/code/example-heat-transfer-in-a-rod.ipynb" target="_blank"> Jupyter notebook</a></h4>
+    <h4><span class="fa fa-code"></span><a href="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/code/example-heat-transfer-in-a-rod.ipynb" target="_blank"> Jupyter notebook</a></h4>
   </div>
 </div>
-
-
 
 # The tensor necessity - a short story about momentum transport in fluids
 
