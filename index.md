@@ -231,14 +231,6 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdyb
   {% endfor %}
 </ul>
 
------------------------
-
-Site visits:
-
-<div id="sfc78tu8xqu3t8ch9dytll5ese12x1qynzy"></div>
-<script type="text/javascript" src="https://counter3.stat.ovh/private/counter.js?c=78tu8xqu3t8ch9dytll5ese12x1qynzy&down=async" async></script>
-<br><noscript><a href="https://www.freecounterstat.com" title="web page counter"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=78tu8xqu3t8ch9dytll5ese12x1qynzy" border="0" title="web page counter" alt="web page counter"></a></noscript>
-
 <footer class="site-footer">
 
   <span class="site-footer-credits">This site uses: <a href="https://github.com/lorepirri/cayman-blog">Cayman Blog Theme</a>  by Lorenzo Pirritano (@lorepirri)  | <a href="https://github.com/lorepirri/cayman-blog/blob/master/LICENSE">Licence</a>: Creative Commons Attribution 1.0 International </span>
