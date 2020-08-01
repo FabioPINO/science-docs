@@ -84,6 +84,7 @@ These are notes on linear algebra aspects of **Principal Component Analysis** wi
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/PCA/PCA.pdf" target="_blank"> Tutorial</a></h4>
+    <h4><span class="fa fa-code"></span><a href="https://github.com/camillejr/ulb-atm-phd/blob/master/PCA/PCA-tutorial.ipynb" target="_blank"> Jupyter notebook</a></h4>
   </div>
 </div>
 
