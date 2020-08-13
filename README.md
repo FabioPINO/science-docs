@@ -1,3 +1,3 @@
 # Science Docs
 
-[camillejr.github.io/science-docs/](https://camillejr.github.io/science-docs/)
+[kamilazdybal.github.io/science-docs/](https://kamilazdybal.github.io/science-docs/)
