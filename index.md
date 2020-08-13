@@ -47,11 +47,11 @@ A computational example of steady-state heat conduction in a lengthwise-insulate
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/plots/steady-state-heat-conduction.png?raw=true" alt="Heat-transfer" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/plots/steady-state-heat-conduction.png?raw=true" alt="Heat-transfer" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/raw/master/transport-phenomena-with-Python/example-heat-transfer-in-a-rod.pdf" target="_blank"> Tutorial</a></h4>
-    <h4><span class="fa fa-code"></span><a href="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/code/example-heat-transfer-in-a-rod.ipynb" target="_blank"> Jupyter notebook</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/raw/master/transport-phenomena-with-Python/example-heat-transfer-in-a-rod.pdf" target="_blank"> Tutorial</a></h4>
+    <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/code/example-heat-transfer-in-a-rod.ipynb" target="_blank"> Jupyter notebook</a></h4>
   </div>
 </div>
 
@@ -65,10 +65,10 @@ At first encounter, tensors can seem like strange mathematical objects. It can b
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/tensor-necessity/plots/thumbnail.png?raw=true" alt="Tensor-necessity" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/tensor-necessity/plots/thumbnail.png?raw=true" alt="Tensor-necessity" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/raw/master/tensor-necessity/tensor-necessity.pdf" target="_blank"> Article</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/raw/master/tensor-necessity/tensor-necessity.pdf" target="_blank"> Article</a></h4>
   </div>
 </div>
 
@@ -80,11 +80,11 @@ These are notes on linear algebra aspects of **Principal Component Analysis** wi
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/PCA/plots/thumbnail.png?raw=true" alt="PCA sample" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/ulb-atm-phd/blob/master/PCA/plots/thumbnail.png?raw=true" alt="PCA sample" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/PCA/PCA.pdf" target="_blank"> Tutorial</a></h4>
-    <h4><span class="fa fa-code"></span><a href="https://github.com/camillejr/ulb-atm-phd/blob/master/PCA/PCA-tutorial.ipynb" target="_blank"> Jupyter notebook</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/ulb-atm-phd/raw/master/PCA/PCA.pdf" target="_blank"> Tutorial</a></h4>
+    <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/ulb-atm-phd/blob/master/PCA/PCA-tutorial.ipynb" target="_blank"> Jupyter notebook</a></h4>
   </div>
 </div>
 
@@ -98,12 +98,12 @@ Well, here it is! In the **Objectif Morse** project you will make an interesting
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/objectif_morse/blob/master/Documentation/cover_obj_morse.jpg?raw=true" alt="cooking_water" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/objectif_morse/blob/master/Documentation/cover_obj_morse.jpg?raw=true" alt="cooking_water" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf" target="_blank"> Tutorial</a></h4>
-    <h4><span class="fa fa-code"></span><a href="https://github.com/camillejr/objectif-morse/tree/master/Code" target="_blank"> Code</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/objectif_morse" target="_blank"> Repository</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf" target="_blank"> Tutorial</a></h4>
+    <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/objectif-morse/tree/master/Code" target="_blank"> Code</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/objectif_morse" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -119,11 +119,11 @@ Using two data decomposition methods: **Proper Orthogonal Decomposition** and **
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/POD-DMD-decompositions/blob/master/DWGs/GIF_2D_POD_r3.gif?raw=true" alt="POD_DMD" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/POD-DMD-decompositions/blob/master/DWGs/GIF_2D_POD_r3.gif?raw=true" alt="POD_DMD" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/POD-DMD-decompositions/raw/master/final-report/stagiaire_report_kzdybal.pdf" target="_blank"> Report</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/camillejr/POD-DMD-decompositions" target="_blank"> Repository</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/POD-DMD-decompositions/raw/master/final-report/stagiaire_report_kzdybal.pdf" target="_blank"> Report</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/POD-DMD-decompositions" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
@@ -135,10 +135,10 @@ So I said: *let’s do it!*
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/linear-algebra/raw/master/proof-of-associative-law/proof-of-associative-law-thumbnail.png?raw=true" alt="MIT-G-Strang" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/linear-algebra/raw/master/proof-of-associative-law/proof-of-associative-law-thumbnail.png?raw=true" alt="MIT-G-Strang" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/linear-algebra/raw/master/proof-of-associative-law/proof-of-associative-law.pdf" target="_blank"> Note</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/linear-algebra/raw/master/proof-of-associative-law/proof-of-associative-law.pdf" target="_blank"> Note</a></h4>
   </div>
 </div>
 
@@ -150,10 +150,10 @@ Following a great [lecture](https://www.youtube.com/watch?v=UpsV1y6wMQ8) by Prof
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/GPR/DWGs/thumbnail.png?raw=true" alt="transport_phenomena" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/ulb-atm-phd/blob/master/GPR/DWGs/thumbnail.png?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
   <div class="column">
-  <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/camillejr/ulb-atm-phd/raw/master/GPR/GPR.pdf" target="_blank"> Note</a></h4>
+  <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/ulb-atm-phd/raw/master/GPR/GPR.pdf" target="_blank"> Note</a></h4>
   </div>
 </div>
 
@@ -170,7 +170,7 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/ulb-atm-phd/blob/master/DMD/DWGs/DMD-science-docs.png?raw=true" alt="DMD-notes" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/ulb-atm-phd/blob/master/DMD/DWGs/DMD-science-docs.png?raw=true" alt="DMD-notes" style="width:150px"></a>
   </div>
 </div>
 
@@ -182,7 +182,7 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/fluid-toolbox/cover-fluid-toolbox.png?raw=true" alt="transport_phenomena" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/fluid-toolbox/cover-fluid-toolbox.png?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
 </div>
 
@@ -196,7 +196,7 @@ This tutorial has been produced after taking two wonderful courses offered by De
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/camillejr/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/plots/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/plots/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
 </div>
 
@@ -204,19 +204,19 @@ This tutorial has been produced after taking two wonderful courses offered by De
 
 # Tools
 
-## [Standard Atmosphere Calculator](https://camillejr.github.io/Tools/standard-atmosphere-calculator.html)
+## [Standard Atmosphere Calculator](https://kamilazdybal.github.io/Tools/standard-atmosphere-calculator.html)
 
 -----------------------
 
 # About
 
-Hi, I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles. Since childhood I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that - a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write - although many times I will assume certain prerequisites that your grandmother should have. Of course, if you wish to profit from the materials presented here you will need to incorporate them in your journey and make it your way. I have hopes that you will find doing science fascinating, rewarding and inspiring!
+Hi, I'm Kamila Zdybał and I'm currently a PhD student at Université libre de Bruxelles. Since childhood I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that - a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write - although many times I will assume certain prerequisites that your grandmother should have. Of course, if you wish to profit from the materials presented here you will need to incorporate them in your journey and make it your way. I have hopes that you will find doing science fascinating, rewarding and inspiring!
 
 I ought to make one more note here: this site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Any corrections or update proposals are welcome.
 
 If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdybal at gmail.com` (personal mail) or `kamila.zdybal at ulb.ac.be` (university mail).
 
-<img src="https://github.com/camillejr/science-docs/blob/master/_posts/kamila.jpg?raw=true" alt="about-me" style="width:300px">
+<img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/kamila.jpg?raw=true" alt="about-me" style="width:300px">
 
 <h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
 
