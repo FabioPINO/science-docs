@@ -98,10 +98,10 @@ Well, here it is! In the **Objectif Morse** project you will make an interesting
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/kamilazdybal/objectif_morse/blob/master/Documentation/cover_obj_morse.jpg?raw=true" alt="objectif_morse" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/objectif-morse/blob/master/Documentation/cover_obj_morse.jpg?raw=true" alt="objectif_morse" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/objectif_morse/raw/master/Documentation/Objectif_Morse.pdf" target="_blank"> Tutorial</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/objectif-morse/raw/master/Documentation/Objectif_Morse.pdf" target="_blank"> Tutorial</a></h4>
     <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/objectif-morse/tree/master/Code" target="_blank"> Code</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/objectif_morse" target="_blank"> Repository</a></h4>
   </div>
