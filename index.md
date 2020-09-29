@@ -218,7 +218,7 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdyb
 
 > My research is supported by the F.R.S.-FNRS Aspirant Research Fellow grant.
 
-<img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/kamila.jpg?raw=true" alt="about-me" style="width:300px">
+<img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/kamila.png?raw=true" alt="about-me" style="width:400px">
 
 <h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
 
