@@ -26,7 +26,7 @@ You can test your own feeling of having understood something on an example of a 
 A way to prove it, is to show that we arrive at a contradiction in two excluding cases: assuming that **A** contains itself as its member and assuming that **A** does not contains itself as its member. Here's the full proof:
 
 <p align="center">
-  <img src="https://github.com/camillejr/science-docs/raw/master/_posts/A-set.png" width="500">
+  <img src="https://github.com/camillejr/science-docs/raw/master/_posts/A-set.png" width="700">
 </p>
 
 That's a reasoning that requires certain time and processing in your head before you "get convinced" that it is reasonable. You could memorize everything that I've written there and to the outside world there would be no difference. There is a difference in your brain however that only you know about.
