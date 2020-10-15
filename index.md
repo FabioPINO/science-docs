@@ -165,7 +165,6 @@ Following a great [lecture](https://www.youtube.com/watch?v=UpsV1y6wMQ8) by Prof
 
 These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method for finding low-rank structures in high-dimensional data sets. These notes come mainly from two lectures by Prof. Nathan Kutz from the University of Washington but also from other sources and my own previous study of DMD.
 
-<sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
 <sup>This PDF is still under construction...</sup>
 
 <div class="row">
