@@ -175,7 +175,7 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
 
 # Fluid Toolbox
 
-**Fluid Toolbox** is a collection of human-readable, pseudo-random study notes. It contains descriptions and explanations of fluid mechanics concepts, presented in a way that resembles the record of my understanding of them. It is meant to be used complimentary to the regular textbook since it may provide additional insight but it will not substitute thoroughness of a standard course in the subject. I believe that working side by side with a course it can become indeed a useful toolbox of concepts that are ready-to-use and ready-to-understand.
+**Fluid Toolbox** is a collection of human-readable, pseudo-random study notes. It contains descriptions and explanations of various fluid mechanics concepts. It is meant to be used complimentary to the regular textbook since it may provide additional insights but it will not substitute the thoroughness of the standard course in the subject. I believe that working side by side with the course, it can become a useful toolbox of concepts that are ready-to-use and ready-to-understand.
 
 <sup>This PDF is still under construction...</sup>
 
