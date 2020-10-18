@@ -221,12 +221,6 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdyb
 
 <h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
 
-<p>
-   <a href="/science-docs/#intro">
-      ^ Go up
-  </a>
-</p>
-
 -----------------------
 
 # Science blog & thoughts
@@ -241,7 +235,7 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdyb
 
 <p>
    <a href="/science-docs/#intro">
-      ^ Go up
+      ^ Go to the top
   </a>
 </p>
 
