@@ -33,11 +33,11 @@ img {
 
 ### Hello, welcome to Science Docs!
 
-**Science Docs** is a collection of projects, tutorials, reports and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and experimenting.
+**Science Docs** is a collection of projects, tutorials and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and experimenting.
 
-> *À force de croire en ses rêves, l’homme en fait une réalité.*
->
-> __Hergé__
+<sup>
+Reach out to the <a href="/science-docs/#about">About</a> section at the bottom of this page for a bit more info, or to the <a href="/science-docs/#science_blog_and_thoughts">Science blog & thoughts</a> section for more fun science stuff.
+</sup>
 
 -----------------------
 
@@ -106,10 +106,6 @@ Well, here it is! In the **Objectif Morse** project you will make an interesting
     <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/objectif-morse" target="_blank"> Repository</a></h4>
   </div>
 </div>
-
-
-
-
 
 # POD and DMD decomposition of numerical and experimental data
 
@@ -208,6 +204,8 @@ This tutorial has been produced after taking two wonderful courses offered by De
 -----------------------
 
 # About
+
+<ul id="about"></ul>
 
 Hi, I'm Kamila Zdybał and I'm currently a PhD student at Université libre de Bruxelles. Since childhood I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that - a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write - although many times I will assume certain prerequisites that your grandmother should have. Of course, if you wish to profit from the materials presented here you will need to incorporate them in your journey and make it your way. I have hopes that you will find doing science fascinating, rewarding and inspiring!
 
