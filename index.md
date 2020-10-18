@@ -31,9 +31,9 @@ img {
 }
 </style>
 
-### Hello, welcome to Science Docs!
-
 <ul id="intro"></ul>
+
+### Hello, welcome to Science Docs!
 
 **Science Docs** is a collection of tutorials, articles, coding projects and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and experimenting.
 
