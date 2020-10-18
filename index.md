@@ -33,10 +33,12 @@ img {
 
 ### Hello, welcome to Science Docs!
 
-**Science Docs** is a collection of projects, tutorials and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and experimenting.
+<ul id="intro"></ul>
+
+**Science Docs** is a collection of tutorials, articles, coding projects and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and experimenting.
 
 <sup>
-Reach out to the <a href="/science-docs/#about">About</a> section at the bottom of this page for a bit more info, or to the <a href="/science-docs/#science_blog_and_thoughts">Science blog & thoughts</a> section for more fun science stuff.
+Reach out to the <a href="/science-docs/#about">About</a> section for a bit more info, or to the <a href="/science-docs/#science_blog_and_thoughts">Science blog & thoughts</a> section for more fun science stuff.
 </sup>
 
 -----------------------
@@ -219,6 +221,12 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdyb
 
 <h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
 
+<p>
+   <a href="/science-docs/#intro">
+      ^ Go up
+  </a>
+</p>
+
 -----------------------
 
 # Science blog & thoughts
@@ -230,6 +238,12 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdyb
     </li>
   {% endfor %}
 </ul>
+
+<p>
+   <a href="/science-docs/#intro">
+      ^ Go up
+  </a>
+</p>
 
 <footer class="site-footer">
 
