@@ -187,7 +187,7 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
 
 I collected few interesting computational examples in transport phenomena in a form of a tutorial and created a set of Python codes to accompany a better understanding of the results.
 
-This tutorial has been produced after taking two wonderful courses offered by Delft University: *The Basics of Transport Phenomena* and *Advanced Transport Phenomena*.
+This tutorial has been produced after taking two great courses offered by TU Delft: *The Basics of Transport Phenomena* and *Advanced Transport Phenomena*.
 
 <sup>This PDF is still under construction...</sup>
 
