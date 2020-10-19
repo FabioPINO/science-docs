@@ -235,7 +235,7 @@ Hi, I'm Kamila Zdybał and I'm currently a PhD student at Université libre de B
 
 <sup>This site is always alive. The PDFs and the associated repositories get updated from time to time. Even though a PDF is completed, it does not mean that its content will not change in the future. Any corrections or update proposals are welcome.</sup>
 
-<sup>If you wish to contact me via mail, feel free to drop me a line at: `kamilazdybal at gmail dot com` (personal mail) or `kamila.zdybal at ulb dot ac dot be` (university mail).</sup>
+<sup>If you wish to contact me via mail, feel free to drop me a line at: *kamilazdybal at gmail dot com* (personal mail) or *kamila dot zdybal at ulb dot ac dot be* (university mail).</sup>
 
 <img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/kamila.png?raw=true" alt="about-me" style="width:400px">
 
