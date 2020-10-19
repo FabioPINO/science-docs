@@ -38,10 +38,12 @@ img {
 **Science Docs** is a collection of tutorials, articles, coding projects and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and experimenting.
 
 <sup>
-Reach out to the <a href="/science-docs/#about">About</a> section for a bit more info, or to the <a href="/science-docs/#science_blog_and_thoughts">Science blog & thoughts</a> section for more fun science stuff.
+Reach out to the <a href="/science-docs/#about">About</a> section for a bit more info, or to the <a href="/science-docs/#blog">Science blog & thoughts</a> section for more fun science stuff.
 </sup>
 
 -----------------------
+
+<ul id="heatconduction"></ul>
 
 # Steady-state heat conduction
 
@@ -56,6 +58,8 @@ A computational example of steady-state heat conduction in a lengthwise-insulate
     <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/code/example-heat-transfer-in-a-rod.ipynb" target="_blank"> Jupyter notebook</a></h4>
   </div>
 </div>
+
+<ul id="tensornecessity"></ul>
 
 # The tensor necessity - a short story about momentum transport in fluids
 
@@ -74,6 +78,8 @@ At first encounter, tensors can seem like strange mathematical objects. It can b
   </div>
 </div>
 
+<ul id="pca"></ul>
+
 # The linear algebra of Principal Component Analysis (with Python examples)
 
 These are notes on linear algebra aspects of **Principal Component Analysis** with a little bit more insight then you would typically get when reading about PCA from online tutorials. The notes are accompanied by several Python computational examples.
@@ -89,6 +95,8 @@ These are notes on linear algebra aspects of **Principal Component Analysis** wi
     <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/ulb-atm-phd/blob/master/PCA/PCA-tutorial.ipynb" target="_blank"> Jupyter notebook</a></h4>
   </div>
 </div>
+
+<ul id="objectifmorse"></ul>
 
 # Objectif Morse
 
@@ -109,6 +117,8 @@ Well, here it is! In the **Objectif Morse** project you will make an interesting
   </div>
 </div>
 
+<ul id="poddmd"></ul>
+
 # POD and DMD decomposition of numerical and experimental data
 
 Using two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**, as well as concepts from linear algebra and dynamical systems within Matlab scripts, I searched for low-rank structures in the pulsating Poiseuille flow and in the velocity field of the flow behind a cylinder.
@@ -125,6 +135,8 @@ Using two data decomposition methods: **Proper Orthogonal Decomposition** and **
   </div>
 </div>
 
+<ul id="associativelaw"></ul>
+
 # Proof of the associative law for matrices
 
 I was reviewing the amazing MIT course on linear algebra. When the associative law appeared on the blackboard, Professor Strang said: *It’s not that easy to prove that this is correct. You have to go into the gory details of matrix multiplication, do it both ways and see that you come out the same.*
@@ -139,6 +151,8 @@ So I said: *let’s do it!*
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/linear-algebra/raw/master/proof-of-associative-law/proof-of-associative-law.pdf" target="_blank"> Note</a></h4>
   </div>
 </div>
+
+<ul id="gpr"></ul>
 
 # Notes on Gaussian Process Regression
 
@@ -159,6 +173,8 @@ Following a great [lecture](https://www.youtube.com/watch?v=UpsV1y6wMQ8) by Prof
 
 ## Under construction
 
+<ul id="dmd"></ul>
+
 # Notes on Dynamic Mode Decomposition
 
 These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method for finding low-rank structures in high-dimensional data sets. These notes come mainly from two lectures by Prof. Nathan Kutz from the University of Washington but also from other sources and my own previous study of DMD.
@@ -170,6 +186,8 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
     <a><img src="https://github.com/kamilazdybal/ulb-atm-phd/blob/master/DMD/DWGs/DMD-science-docs.png?raw=true" alt="DMD-notes" style="width:150px"></a>
   </div>
 </div>
+
+<ul id="fluidtoolbox"></ul>
 
 # Fluid Toolbox
 
@@ -183,11 +201,13 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
   </div>
 </div>
 
+<ul id="transportphenomena"></ul>
+
 # Computational examples in transport phenomena with Python
 
 I collected few interesting computational examples in transport phenomena in a form of a tutorial and created a set of Python codes to accompany a better understanding of the results.
 
-This tutorial has been produced after taking two great courses offered by TU Delft: *The Basics of Transport Phenomena* and *Advanced Transport Phenomena*.
+<sup>This tutorial has been produced after taking two great courses offered by TU Delft: *The Basics of Transport Phenomena* and *Advanced Transport Phenomena*.</sup>
 
 <sup>This PDF is still under construction...</sup>
 
@@ -225,7 +245,7 @@ If you wish to contact me via mail, feel free to drop me a line at: `kamila.zdyb
 
 # Science blog & thoughts
 
-<ul id="science_blog_and_thoughts">
+<ul id="blog">
   {% for post in site.posts %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>

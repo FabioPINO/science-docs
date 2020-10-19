@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 <p>
-   <a href="/science-docs/#science_blog_and_thoughts">
+   <a href="/science-docs/#blog">
       < Go back
   </a>
 </p>
