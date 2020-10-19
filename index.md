@@ -37,11 +37,9 @@ img {
 
 **Science Docs** is a collection of tutorials, articles, coding projects and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and experimenting.
 
-<sup>
-Reach out to the <a href="/science-docs/#about">About</a> section for a bit more info, or to the <a href="/science-docs/#blog">Science blog & thoughts</a> section for more fun science stuff. The <a href="/science-docs/#tools">Tools</a> section will collect over time some ready-to-use tools.
-</sup>
-
 <sup>This site is always alive. The documents and the associated repositories get updated from time to time. Even though a document is completed, it does not mean that its content will not change in the future. Any corrections or update proposals are welcome. Feel free to drop me a line at: *kamilazdybal at gmail dot com*.</sup>
+
+<sup>Reach out to the <a href="/science-docs/#about">About</a> section for a bit more info, or to the <a href="/science-docs/#blog">Science blog & thoughts</a> section for more fun science stuff.</sup>
 
 -----------------------
 
