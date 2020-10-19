@@ -18,5 +18,5 @@ Since quite some time I've been willing to create a *gallery of numerical failur
 For the moment, enjoy the possible way in which Euler method can fail if you just happened to select your delta x equal to half the period of a trigonometric function! (Somehow, this plot always reminds me of the scene from the movie Toy Story 2 where the game version of Buzz Lightyear jumps over circular platforms to the music of *Also sprach Zarathustra*.)
 
 <p align="center">
-  <img src="https://github.com/camillejr/numerical-methods/raw/master/numerical-integration/euler-method-sin-unfortunate.png">
+  <img src="https://github.com/kamilazdybal/numerical-methods/raw/master/numerical-integration/euler-method-sin-unfortunate.png">
 </p>

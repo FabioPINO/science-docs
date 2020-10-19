@@ -18,7 +18,7 @@ Poiseuille flow is a flow of fluid between two parallel plates. In the simplest 
 By plotting the obtained velocity profile we get a cool animation! Below you can see the exact solution and, just for fun, a PCA approximation of that solution using the first Principal Component.
 
 <p align="center">
-  <img src="https://github.com/camillejr/POD-DMD-decompositions/raw/master/python-reproduction/pulsating-poiseuille.gif">
+  <img src="https://github.com/kamilazdybal/POD-DMD-decompositions/raw/master/python-reproduction/pulsating-poiseuille.gif">
 </p>
 
-Code can be accessed [here](https://github.com/camillejr/POD-DMD-decompositions/tree/master/python-reproduction).
+Code can be accessed [here](https://github.com/kamilazdybal/POD-DMD-decompositions/tree/master/python-reproduction).

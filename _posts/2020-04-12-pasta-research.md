@@ -18,5 +18,5 @@ One of my research interests includes studying mechanical and thermo-physical pr
 Please contact us if you would like to collaborate on any of these research topics.
 
 <p align="center">
-  <img src="https://github.com/camillejr/science-docs/raw/master/_posts/young-modulus-of-pasta.jpg">
+  <img src="https://github.com/kamilazdybal/science-docs/raw/master/_posts/young-modulus-of-pasta.jpg">
 </p>
