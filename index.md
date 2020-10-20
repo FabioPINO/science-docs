@@ -1,5 +1,5 @@
 ---
-title: Main page
+title: Science Docs | by Kamila Zdybal
 layout: default
 ---
 <head>
