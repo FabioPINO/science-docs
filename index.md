@@ -251,11 +251,7 @@ Hi, I'm Kamila Zdybał and I'm currently a PhD student at Université libre de B
   {% endfor %}
 </ul>
 
-<p>
-   <a href="/science-docs/#intro">
-      ^ Go to the top
-  </a>
-</p>
+<sup><a href="/science-docs/#intro">Jump to the top of the page ^</a></sup>
 
 <footer class="site-footer">
 
