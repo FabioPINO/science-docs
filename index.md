@@ -82,7 +82,7 @@ At first encounter, tensors can seem like strange mathematical objects. It can b
 
 # The linear algebra of Principal Component Analysis (with Python examples)
 
-These are notes on linear algebra aspects of **Principal Component Analysis** with a little bit more insight then you would typically get when reading about PCA from online tutorials. The notes are accompanied by several Python computational examples.
+These are notes on the linear algebra aspects of Principal Component Analysis (PCA) with a little bit more insight then you would typically get when reading about PCA from online tutorials. The notes are accompanied by several Python computational examples.
 
 <sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
 
@@ -102,7 +102,7 @@ These are notes on linear algebra aspects of **Principal Component Analysis** wi
 
 Did you ever wonder what if there were two computers talking to each other using Morse code? One would send a message with light signals and the other would collect the light and understand the message? No cable connecting the computers. The information simply carried by light that travels through the air.
 
-Well, here it is! In the **Objectif Morse** project you will make an interesting use of Arduino, electronic circuits and C++ while transmitting messages in Morse alphabet between computers.
+Well, here it is! In the Objectif Morse project you will make an interesting use of Arduino, electronic circuits and C++ while transmitting messages in Morse alphabet between computers.
 
 <sup>This work has been produced as part of the *Arduino Study Group* meetings at the Jagiellonian University.</sup>
 
@@ -121,7 +121,7 @@ Well, here it is! In the **Objectif Morse** project you will make an interesting
 
 # POD and DMD decomposition of numerical and experimental data
 
-Using two data decomposition methods: **Proper Orthogonal Decomposition** and **Dynamic Mode Decomposition**, as well as concepts from linear algebra and dynamical systems within Matlab scripts, I searched for low-rank structures in the pulsating Poiseuille flow and in the velocity field of the flow behind a cylinder.
+Using two data decomposition methods: Proper Orthogonal Decomposition (POD) and Dynamic Mode Decomposition (DMD), as well as concepts from linear algebra and dynamical systems within Matlab scripts, I searched for low-rank structures in the pulsating Poiseuille flow and in the velocity field of the flow behind a cylinder.
 
 <sup>This work has been produced as part of the Short Training Programme at the von Karman Institute for Fluid Dynamics, under supervision of Professor Miguel A. Mendez.</sup>
 
@@ -177,7 +177,7 @@ Following a great [lecture](https://www.youtube.com/watch?v=UpsV1y6wMQ8) by Prof
 
 # Notes on Dynamic Mode Decomposition
 
-These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method for finding low-rank structures in high-dimensional data sets. These notes come mainly from two lectures by Prof. Nathan Kutz from the University of Washington but also from other sources and my own previous study of DMD.
+These are notes on Dynamic Mode Decomposition (DMD), a data-driven method for finding low-rank structures in high-dimensional data sets. These notes come mainly from two lectures by Prof. Nathan Kutz from the University of Washington but also from other sources and my own previous study of DMD.
 
 <sup>This PDF is still under construction...</sup>
 
@@ -191,7 +191,7 @@ These are notes on **Dynamic Mode Decomposition** (DMD), a data-driven method fo
 
 # Fluid Toolbox
 
-**Fluid Toolbox** is a collection of human-readable, pseudo-random study notes. It contains descriptions and explanations of various fluid mechanics concepts. It is meant to be used complimentary to the regular textbook since it may provide additional insights but it will not substitute the thoroughness of the standard course in the subject. I believe that working side by side with the course, it can become a useful toolbox of concepts that are ready-to-use and ready-to-understand.
+Fluid Toolbox is a collection of human-readable, pseudo-random study notes. It contains descriptions and explanations of various fluid mechanics concepts. It is meant to be used complimentary to the regular textbook since it may provide additional insights but it will not substitute the thoroughness of the standard course in the subject. I believe that working side by side with the course, it can become a useful toolbox of concepts that are ready-to-use and ready-to-understand.
 
 <sup>This PDF is still under construction...</sup>
 
