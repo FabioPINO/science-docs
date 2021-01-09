@@ -213,7 +213,7 @@ I collected few interesting computational examples in transport phenomena in a f
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/plots/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/figures/cover-trans-phen.jpg?raw=true" alt="transport_phenomena" style="width:150px"></a>
   </div>
 </div>
 
