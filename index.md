@@ -51,11 +51,11 @@ A computational example of steady-state heat conduction in a lengthwise-insulate
 
 <div class="row">
   <div class="column">
-    <a><img src="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/plots/steady-state-heat-conduction.png?raw=true" alt="Heat-transfer" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/figures/steady-state-heat-conduction.png?raw=true" alt="Heat-transfer" style="width:150px"></a>
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/raw/master/transport-phenomena-with-Python/example-heat-transfer-in-a-rod.pdf" target="_blank"> Tutorial</a></h4>
-    <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/code/example-heat-transfer-in-a-rod.ipynb" target="_blank"> Jupyter notebook</a></h4>
+    <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/code/01-heat-conduction.ipynb" target="_blank"> Jupyter notebook</a></h4>
   </div>
 </div>
 
