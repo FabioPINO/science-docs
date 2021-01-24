@@ -45,6 +45,7 @@ plt.yticks([])
 line, = ax.plot([], [], 'k', lw=1)
 
 def init():
+
     line.set_data([], [])
     return line,
 
