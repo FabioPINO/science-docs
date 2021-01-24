@@ -97,5 +97,5 @@ plt.savefig('archimedean_spiral_' + str(end) + '_' + str(n_points) + '.png')
 Finally, if you get the ratio of `end` to `n_points` right, you still pick up the spiral pattern, but at a larger scale than the original spiral! This can be seen below with the sufficiently discretized spiral plotted in gray in the background:
 
 <p align="center">
-  <img src="https://github.com/kamilazdybal/science-docs/raw/master/_posts/archimedean_spiral_60_100.png" width="400">
+  <img src="https://github.com/kamilazdybal/science-docs/raw/master/_posts/archimedean_spiral_60_10.png" width="400">
 </p>
