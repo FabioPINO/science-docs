@@ -179,7 +179,7 @@ Following a great [lecture](https://www.youtube.com/watch?v=UpsV1y6wMQ8) by Prof
 
 These are notes on Dynamic Mode Decomposition (DMD), a data-driven method for finding low-rank structures in high-dimensional data sets. These notes come mainly from two lectures by Prof. Nathan Kutz from the University of Washington but also from other sources and my own previous study of DMD.
 
-<sup>This PDF is still under construction...</sup>
+<sup>This document is still under construction... Would you like to help in completing it?</sup>
 
 <div class="row">
   <div class="column">
@@ -193,7 +193,7 @@ These are notes on Dynamic Mode Decomposition (DMD), a data-driven method for fi
 
 Fluid Toolbox is a collection of human-readable, pseudo-random study notes. It contains descriptions and explanations of various fluid mechanics concepts. It is meant to be used complimentary to the regular textbook since it may provide additional insights but it will not substitute the thoroughness of the standard course in the subject. I believe that working side by side with the course, it can become a useful toolbox of concepts that are ready-to-use and ready-to-understand.
 
-<sup>This PDF is still under construction...</sup>
+<sup>This document is still under construction... Would you like to help in completing it?</sup>
 
 <div class="row">
   <div class="column">
@@ -209,7 +209,7 @@ I collected few interesting computational examples in transport phenomena in a f
 
 <sup>This tutorial has been produced after taking two great courses offered by TU Delft: *The Basics of Transport Phenomena* and *Advanced Transport Phenomena*.</sup>
 
-<sup>This PDF is still under construction...</sup>
+<sup>This document is still under construction... Would you like to help in completing it?</sup>
 
 <div class="row">
   <div class="column">
