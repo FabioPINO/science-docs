@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Archimedean spiral"
+title:  "The Archimedean spiral (but not quite!)"
 date:   2021-01-24 15:00:00 +0100
 categories: jekyll update
 ---
