@@ -233,8 +233,6 @@ I collected few interesting computational examples in transport phenomena in a f
 
 Hi, I'm Kamila Zdybał and I'm currently a PhD student at Université libre de Bruxelles. Since childhood I loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that - a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write - although many times I will assume certain prerequisites that your grandmother should have. Of course, if you wish to profit from the materials presented here you will need to incorporate them in your journey and make it your way. I have hopes that you will find doing science fascinating, rewarding and inspiring!
 
-> My research is supported by the F.R.S.-FNRS Aspirant Research Fellow grant.
-
 <img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/kamila.png?raw=true" alt="about-me" style="width:400px">
 
 <h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
