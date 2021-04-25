@@ -52,7 +52,9 @@ It can be used for data clustering and sampling, dimensionality reduction, nonli
 
 Reach out to the documentation for many illustrative tutorials!
 
-<sup>**PCAfold** is published in the [SoftwareX journal](https://www.sciencedirect.com/science/article/pii/S2352711020303435). You can cite the software as: K. Zdybał, E. Armstrong, A. Parente, J. C. Sutherland (2020) *PCAfold: Python software to generate, analyze and improve PCA-derived low-dimensional manifolds*, SoftwareX 12</sup>
+<sup>**PCAfold** is published in the [SoftwareX journal](https://www.sciencedirect.com/science/article/pii/S2352711020303435). You can cite the software as:</sup>
+
+<sup>K. Zdybał, E. Armstrong, A. Parente, J. C. Sutherland (2020) *PCAfold: Python software to generate, analyze and improve PCA-derived low-dimensional manifolds*, SoftwareX 12</sup>
 
 <div class="row">
   <div class="column">
