@@ -45,10 +45,11 @@ img {
 
 <ul id="pcafold"></ul>
 
-# `PCAfold` - Low-dimensional PCA-derived manifolds and everything in between!
+# **PCAfold** - Low-dimensional PCA-derived manifolds and everything in between!
 
-Check out our Python software for generating, analyzing and improving low-dimensional manifolds.
-PCAfold is published in the [SoftwareX journal](https://www.sciencedirect.com/science/article/pii/S2352711020303435).
+Check out **PCAfold**, our Python software for generating, analyzing and improving low-dimensional manifolds.
+
+**PCAfold** is published in the [SoftwareX journal](https://www.sciencedirect.com/science/article/pii/S2352711020303435).
 
 <div class="row">
   <div class="column">
