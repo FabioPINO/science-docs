@@ -58,7 +58,7 @@ Reach out to the documentation for many illustrative tutorials!
 
 <div class="row">
   <div class="column">
-    <a><img src="https://gitlab.multiscale.utah.edu/common/PCAfold/-/raw/master/docs/images/PCAfold-logo.svg" alt="PCAfold" style="width:150px"></a>
+    <a><img src="https://gitlab.multiscale.utah.edu/common/PCAfold/-/raw/docs-cleanup/docs/images/PCAfold-logo.svg" alt="PCAfold" style="width:150px"></a>
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://pcafold.readthedocs.io/" target="_blank"> Documentation</a></h4>
