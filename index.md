@@ -43,6 +43,23 @@ img {
 
 -----------------------
 
+<ul id="pcafold"></ul>
+
+# `PCAfold` - Low-dimensional PCA-derived manifolds and everything in between!
+
+Check out our Python software for generating, analyzing and improving low-dimensional manifolds.
+PCAfold is published in the [SoftwareX journal](https://www.sciencedirect.com/science/article/pii/S2352711020303435).
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://gitlab.multiscale.utah.edu/common/PCAfold/-/raw/master/docs/images/PCAfold-logo.svg" alt="PCAfold" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://pcafold.readthedocs.io/" target="_blank"> Documentation</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://gitlab.multiscale.utah.edu/common/PCAfold" target="_blank"> Repository</a></h4>
+  </div>
+</div>
+
 <ul id="heatconduction"></ul>
 
 # Steady-state heat conduction
