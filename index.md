@@ -60,7 +60,7 @@ Reach out to the documentation for many illustrative tutorials!
     <a><img src="https://gitlab.multiscale.utah.edu/common/PCAfold/-/raw/docs-cleanup/docs/images/PCAfold-logo.svg" alt="PCAfold" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-newspaper"></span><a href="https://www.sciencedirect.com/science/article/pii/S2352711020303435" target="_blank"> Publication</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://www.sciencedirect.com/science/article/pii/S2352711020303435" target="_blank"> Publication</a></h4>
     <h4><span class="fa fa-book"></span><a href="https://pcafold.readthedocs.io/" target="_blank"> Documentation</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://gitlab.multiscale.utah.edu/common/PCAfold" target="_blank"> Repository</a></h4>
   </div>
