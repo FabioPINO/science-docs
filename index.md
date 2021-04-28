@@ -55,6 +55,8 @@ Reach out to the documentation for many illustrative tutorials!
 <sup>**PCAfold** is published in the SoftwareX journal. You can cite the software as:</sup>
 <sup>K. Zdybał, E. Armstrong, A. Parente, J. C. Sutherland, *PCAfold: Python software to generate, analyze and improve PCA-derived low-dimensional manifolds*, SoftwareX 12, 2020</sup>
 
+<sup>This work has been produced during my PhD at Université libre de Bruxelles and my research stay at the University of Utah.</sup>
+
 <div class="row">
   <div class="column">
     <a><img src="https://gitlab.multiscale.utah.edu/common/PCAfold/-/raw/docs-cleanup/docs/images/PCAfold-logo.svg" alt="PCAfold" style="width:150px"></a>
@@ -90,8 +92,6 @@ At first encounter, tensors can seem like strange mathematical objects. It can b
 
 *This is a beta version of an article. You can help me make it better by spotting errors or suggesting improvements!*
 
-<sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
-
 <div class="row">
   <div class="column">
     <a><img src="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/tensor-necessity/plots/thumbnail.png?raw=true" alt="Tensor-necessity" style="width:150px"></a>
@@ -106,8 +106,6 @@ At first encounter, tensors can seem like strange mathematical objects. It can b
 # The linear algebra of Principal Component Analysis (with Python examples)
 
 These are notes on the linear algebra aspects of Principal Component Analysis (PCA) with a little bit more insight then you would typically get when reading about PCA from online tutorials. The notes are accompanied by several Python computational examples.
-
-<sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
 
 <div class="row">
   <div class="column">
@@ -180,8 +178,6 @@ So I said: *let’s do it!*
 # Notes on Gaussian Process Regression
 
 Following a great [lecture](https://www.youtube.com/watch?v=UpsV1y6wMQ8) by Professor Anna Scaife I decided to reproduce her figures and write a small note on Gaussian Process Regression (GPR).
-
-<sup>This work has been produced during my PhD at Université libre de Bruxelles.</sup>
 
 <div class="row">
   <div class="column">
