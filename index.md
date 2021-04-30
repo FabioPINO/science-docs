@@ -50,14 +50,14 @@ img {
 Check out **PCAfold**, our Python software for generating, analyzing and improving low-dimensional manifolds.
 It can be used for data clustering and sampling, dimensionality reduction, nonlinear regression and assessing the quality of low-dimensional manifolds.
 
-Reach out to the documentation for many illustrative tutorials!
+Reach out to the documentation for many illustrative tutorials! You can also run the tutorials interactively in Jupyter notebooks:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.multiscale.utah.edu%2Fcommon%2FPCAfold/master?filepath=docs%2Ftutorials%2F)
 
 <sup>**PCAfold** is published in the SoftwareX journal. You can cite the software as:</sup>
 <sup>K. Zdybał, E. Armstrong, A. Parente, J. C. Sutherland, *PCAfold: Python software to generate, analyze and improve PCA-derived low-dimensional manifolds*, SoftwareX 12, 2020</sup>
 
 <sup>This work has been produced during my PhD at Université libre de Bruxelles and my research stay at the University of Utah.</sup>
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.multiscale.utah.edu%2Fcommon%2FPCAfold/master?filepath=docs%2Ftutorials%2F)
 
 <div class="row">
   <div class="column">
