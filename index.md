@@ -77,7 +77,7 @@ Reach out to the documentation for many illustrative tutorials! You can also run
 
 <div class="row">
   <div class="column">
-    <a><img src="https://gitlab.multiscale.utah.edu/common/PCAfold/-/raw/master/docs/images/PCAfold-logo.svg" alt="PCAfold" style="width:150px"></a>
+    <a><img src="https://github.com/kamilazdybal/science-docs/raw/master/_posts/PCAfold-logo.png" alt="PCAfold" style="width:150px"></a>
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://www.sciencedirect.com/science/article/pii/S2352711020303435" target="_blank"> Publication</a></h4>
