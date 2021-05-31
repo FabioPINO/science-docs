@@ -43,6 +43,22 @@ img {
 
 -----------------------
 
+<ul id="2021-vki-ulb-cup"></ul>
+
+# Advancing reacting flow simulations with data-driven models
+
+Stay tuned for our book chapter in collection *Data-Driven Fluid Dynamics: Combining First Principles and Machine Learning* by me and co-workers, coming soon!
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/kamilazdybal/science-docs/raw/master/_posts/lpca.png" alt="CUP-book-chapter" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://www.datadrivenfluidmechanics.com/index.php/about" target="_blank"> Book chapter</a></h4>
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://www.datadrivenfluidmechanics.com/index.php/about" target="_blank"> Collection</a></h4>
+  </div>
+</div>
+
 <ul id="pcafold"></ul>
 
 # **PCAfold** - Low-dimensional PCA-derived manifolds and everything in between!
