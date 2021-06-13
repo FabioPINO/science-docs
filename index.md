@@ -98,7 +98,7 @@ A computational example of steady-state heat conduction in a lengthwise-insulate
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/fluid-dynamics-and-transport-phenomena/raw/master/transport-phenomena-with-Python/example-heat-transfer-in-a-rod.pdf" target="_blank"> Tutorial</a></h4>
-    <h4><span class="fa fa-code"></span><a href="https://nbviewer.jupyter.org/github/kamilazdybal/fluid-dynamics-and-transport-phenomena/blob/master/transport-phenomena-with-Python/code/01-heat-conduction.ipynb" target="_blank"> Jupyter notebook</a></h4>
+    <h4><span class="fa fa-code"></span><a href="https://mybinder.org/v2/gh/kamilazdybal/fluid-dynamics-and-transport-phenomena/master?filepath=transport-phenomena-with-Python%2Fcode%2F01-heat-conduction.ipynb" target="_blank"> Jupyter notebook</a></h4>
   </div>
 </div>
 
