@@ -49,6 +49,8 @@ img {
 
 Stay tuned for our book chapter in collection *Data-Driven Fluid Dynamics: Combining First Principles and Machine Learning* by me and co-workers, coming soon!
 
+<sup>K. Zdybał, G. D'Alessio, G. Aversano, M. R. Malik, A. Coussement, J. C. Sutherland, A. Parente, *Advancing reacting flow simulations with data-driven models*, In M. A. Mendez, A. Ianiro, B. R. Noack,  S. L. Brunton, editors, *Data-Driven Fluid Dynamics: Combining First Principles and Machine Learning*, Cambridge University Press, 2021</sup>
+
 <div class="row">
   <div class="column">
     <a><img src="https://github.com/kamilazdybal/science-docs/raw/master/_posts/flame.png" alt="CUP-book-chapter" style="width:150px"></a>
