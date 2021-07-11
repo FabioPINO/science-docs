@@ -33,9 +33,9 @@ img {
 
 <ul id="intro"></ul>
 
-### Hello, welcome to Science Docs!
+### Hi, I'm Kamila, welcome to Science Docs!
 
-**Science Docs** is a collection of tutorials, articles, coding projects and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and experimenting.
+This website is a collection of tutorials, articles, coding projects and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and experimenting.
 
 <sup>This site is always alive. The documents and the associated repositories get updated from time to time. Even though a document is completed, it does not mean that its content will not change in the future. Any corrections or update proposals are welcome. Feel free to drop me a line at: *kamilazdybal at gmail dot com*.</sup>
 
