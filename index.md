@@ -49,7 +49,7 @@ This website is a collection of tutorials, articles, coding projects and study n
 
 Stay tuned for our book chapter in collection *Data-Driven Fluid Dynamics: Combining First Principles and Machine Learning* by me and co-workers, coming soon!
 
-<sup>**K. Zdybał**, G. D'Alessio, G. Aversano, M. R. Malik, A. Coussement, J. C. Sutherland, A. Parente, *Advancing reacting flow simulations with data-driven models*, In M. A. Mendez, A. Ianiro, B. R. Noack,  S. L. Brunton, editors, *Data-Driven Fluid Dynamics: Combining First Principles and Machine Learning*, Cambridge University Press, 2021</sup>
+<sup>K. Zdybał, G. D'Alessio, G. Aversano, M. R. Malik, A. Coussement, J. C. Sutherland, A. Parente, *Advancing reacting flow simulations with data-driven models*, In M. A. Mendez, A. Ianiro, B. R. Noack,  S. L. Brunton, editors, *Data-Driven Fluid Dynamics: Combining First Principles and Machine Learning*, Cambridge University Press, 2021</sup>
 
 <div class="row">
   <div class="column">
@@ -68,7 +68,7 @@ Stay tuned for our book chapter in collection *Data-Driven Fluid Dynamics: Combi
 Check out **PCAfold**, our Python software for generating, analyzing and improving low-dimensional manifolds.
 It can be used for data clustering and sampling, dimensionality reduction, nonlinear regression and assessing the quality of low-dimensional manifolds. **PCAfold** is published in the SoftwareX journal:
 
-<sup>**K. Zdybał**, E. Armstrong, A. Parente, J. C. Sutherland, *PCAfold: Python software to generate, analyze and improve PCA-derived low-dimensional manifolds*, SoftwareX 12, 2020, 100630</sup>
+<sup>K. Zdybał, E. Armstrong, A. Parente, J. C. Sutherland, *PCAfold: Python software to generate, analyze and improve PCA-derived low-dimensional manifolds*, SoftwareX 12, 2020, 100630</sup>
 
 Reach out to the documentation for many illustrative tutorials! You can also run the tutorials as interactive Jupyter notebooks using Binder:
 
@@ -214,7 +214,7 @@ Following a great [lecture](https://www.youtube.com/watch?v=UpsV1y6wMQ8) by Prof
 How do different coffee containers compare in keeping your coffee warm?
 We perform experimental measurements using Arduino and fit the results with Newton's theoretical model for describing cooling. This article is published in **Neutrino**, a popular science magazine issued by the Physics department at the Jagiellonian University:
 
-<sup>**K. Zdybał**: *Badanie własności izolacyjnych termosów. Zastosowanie prawa stygnięcia Newtona*, Neutrino, 33 (2016) 13-18</sup>
+<sup>K. Zdybał, *Badanie własności izolacyjnych termosów. Zastosowanie prawa stygnięcia Newtona*, Neutrino, 33 (2016) 13-18</sup>
 
 <div class="row">
   <div class="column">
