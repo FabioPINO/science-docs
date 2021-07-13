@@ -138,9 +138,9 @@ These are notes on the linear algebra aspects of Principal Component Analysis (P
 
 <ul id="objectifmorse"></ul>
 
-# Objectif Morse
+# Objectif Morse - an Arduino and C++ journey through transmitting messages in Morse
 
-Did you ever wonder what if there were two computers talking to each other using Morse code? One would send a message with light signals and the other would collect the light and understand the message? No cable connecting the computers. The information simply carried by light that travels through the air.
+Have you ever wondered what if there were two computers talking to each other using Morse code? One would send a message with light signals and the other would collect the light and understand the message? No cable connecting the computers. The information simply carried by light that travels through the air.
 
 Well, here it is! In the Objectif Morse project you will make an interesting use of Arduino, electronic circuits and C++ while transmitting messages in Morse alphabet between computers.
 
@@ -204,6 +204,24 @@ Following a great [lecture](https://www.youtube.com/watch?v=UpsV1y6wMQ8) by Prof
   </div>
   <div class="column">
   <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/ulb-atm-phd/raw/master/GPR/GPR.pdf" target="_blank"> Note</a></h4>
+  </div>
+</div>
+
+<ul id="neutrino"></ul>
+
+# Thermal properties of coffee containers and Newton's law of cooling
+
+How do different coffee containers compare in keeping your coffee warm?
+We perform experimental measurements using Arduino and fit the results with Newton's theoretical model for describing cooling. This article is published in **Neutrino**, a popular science magazine issued by the Physics department at the Jagiellonian University:
+
+<sup>**K. Zdybał**: *Badanie własności izolacyjnych termosów. Zastosowanie prawa stygnięcia Newtona*, Neutrino, 33 (2016) 13-18</sup>
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/kamilazdybal/science-docs/raw/master/_posts/newtons-law-of-cooling.png" alt="neutrino" style="width:150px"></a>
+  </div>
+  <div class="column">
+  <h4><span class="fa fa-file-pdf-o"></span><a href="http://www.neutrino.if.uj.edu.pl/archiwum/2016/33" target="_blank"> Neutrino no. 33</a></h4>
   </div>
 </div>
 
