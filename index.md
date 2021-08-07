@@ -70,7 +70,7 @@ It can be used for data clustering and sampling, dimensionality reduction, nonli
 
 <sup>K. Zdybał, E. Armstrong, A. Parente, J. C. Sutherland, *PCAfold: Python software to generate, analyze and improve PCA-derived low-dimensional manifolds*, SoftwareX 12, 2020, 100630</sup>
 
-Reach out to the documentation for many illustrative tutorials! You can also run the tutorials as interactive Jupyter notebooks using Binder:
+Reach out to the documentation for many illustrative tutorials! You can also run the tutorials as interactive Jupyter notebooks by clicking here:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.multiscale.utah.edu%2Fcommon%2FPCAfold/master?filepath=docs%2Ftutorials%2F)
 
