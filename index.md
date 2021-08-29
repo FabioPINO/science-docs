@@ -136,6 +136,23 @@ These are notes on the linear algebra aspects of Principal Component Analysis (P
   </div>
 </div>
 
+<ul id="dmd"></ul>
+
+# Notes on Dynamic Mode Decomposition
+
+These are notes on Dynamic Mode Decomposition (DMD), a data-driven method for finding low-rank structures in high-dimensional data sets. These notes come mainly from two lectures by Prof. Nathan Kutz from the University of Washington but also from other sources and my own previous study of DMD.
+
+*This is a beta version of an article. You can help me make it better by spotting errors or suggesting improvements!*
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/kamilazdybal/ulb-atm-phd/blob/master/DMD/DWGs/DMD-science-docs.png?raw=true" alt="DMD" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/ulb-atm-phd/raw/master/DMD/DMD-theory.pdf" target="_blank"> Tutorial</a></h4>
+  </div>
+</div>
+
 <ul id="objectifmorse"></ul>
 
 # Objectif Morse - an Arduino and C++ journey through transmitting messages in Morse
@@ -229,20 +246,6 @@ We perform experimental measurements using Arduino and fit the results with Newt
 
 ## Under construction
 
-<ul id="dmd"></ul>
-
-# Notes on Dynamic Mode Decomposition
-
-These are notes on Dynamic Mode Decomposition (DMD), a data-driven method for finding low-rank structures in high-dimensional data sets. These notes come mainly from two lectures by Prof. Nathan Kutz from the University of Washington but also from other sources and my own previous study of DMD.
-
-<sup>This document is still under construction... Would you like to help in completing it?</sup>
-
-<div class="row">
-  <div class="column">
-    <a><img src="https://github.com/kamilazdybal/ulb-atm-phd/blob/master/DMD/DWGs/DMD-science-docs.png?raw=true" alt="DMD-notes" style="width:150px"></a>
-  </div>
-</div>
-
 <ul id="fluidtoolbox"></ul>
 
 # Fluid Toolbox
@@ -287,7 +290,7 @@ I collected few interesting computational examples in transport phenomena in a f
 
 # About
 
-Hi, I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles. Since childhood I've loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that - a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write (although many times I will assume certain prerequisites that your grandmother should have!). Of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey. I have hopes that you will find doing science fascinating, rewarding and inspiring!
+Hi, I'm Kamila and I'm currently a 4th year PhD student at Université libre de Bruxelles. Since childhood I've loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that - a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write (although many times I will assume certain prerequisites that your grandmother should have!). Of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey. I have hopes that you will find doing science fascinating, rewarding and inspiring!
 
 <img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/kamila.png?raw=true" alt="about-me" style="width:400px">
 
