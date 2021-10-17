@@ -42,7 +42,7 @@ Since childhood I've loved science and enjoyed inventing my own ways of understa
 
 <sup>This site is always alive. The documents and the associated repositories get updated from time to time. Even though a document is completed, it does not mean that its content will not change in the future. Any corrections or update proposals are welcome. Feel free to drop me a line at: *kamilazdybal at gmail dot com*.</sup>
 
-<sup>Reach out to the <a href="/science-docs/#blog">Science blog & thoughts</a> section for more fun science stuff.</sup>
+<sup>Reach out to the <a href="/science-docs/#blog">Science blog & thoughts</a> section for more fun science stuff. Did I mention that I like tanks?</sup>
 
 <img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/sherman.jpg?raw=true" alt="about-me" style="width:300px">
 
