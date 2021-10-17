@@ -62,7 +62,7 @@ Coming soon - our educational Python library intended to support your learning o
   </div>
   <div class="column">
     <h4><span class="fa fa-book"></span><a href="https://multipy.readthedocs.io/" target="_blank"> Documentation</a></h4>
-    <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Jupyter notebooks</a></h4>
+    <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Jupyter tutorials</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Repository</a></h4>
   </div>
 </div>
