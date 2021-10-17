@@ -253,6 +253,20 @@ We perform experimental measurements using Arduino and fit the results with Newt
 
 ## Under construction
 
+<ul id="multipy"></ul>
+
+# **multipy** - Python library for multicomponent mass transfer
+
+Coming soon - our educational Python library intended to support your learning of multicomponent mass transfer. The goal was to create a set of functions that are the essential building blocks with which you can play to get more intuition and understanding of quantities involved in multicomponent flows. With these tools you can set-up your own problems such as the Stefan tube problem or the two-bulb diffusion without a whole lot of coding. We wish you a lot of joy in studying multicomponent mass transfer!
+
+<sup>This library is still under construction... Would you like to help in completing it?</sup>
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/multipy.jpg?raw=true" alt="multipy" style="width:150px"></a>
+  </div>
+</div>
+
 <ul id="fluidtoolbox"></ul>
 
 # Fluid Toolbox
