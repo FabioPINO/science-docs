@@ -38,7 +38,7 @@ img {
 Hi, I'm Kamila and I'm currently a 4th year PhD student at Université libre de Bruxelles.
 This website is a collection of tutorials, articles, coding projects and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! My research interests (which typically spice the materials you will find here) are: `reduced-order modeling`, `fluid dynamics`, `multicomponent mass transport`, `reacting flows`, `low-dimensional manifolds`. I have a dream that the PDFs will now enrich your journey through learning and experimenting.
 
-Since childhood I've loved science and enjoyed inventing my own ways of understanding and explaining things. **Science Docs** is pretty much an aftermath of that - a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write (although many times I will assume certain prerequisites that your grandmother should have!). Of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey. I have hopes that you will find doing science fascinating, rewarding and inspiring!
+Since childhood I've loved science and enjoyed inventing my own ways of understanding and explaining things. **Science Docs** is pretty much an aftermath of that -- a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write (although many times I will assume certain prerequisites that your grandmother should have!). Of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey. I have hopes that you will find doing science fascinating, rewarding and inspiring!
 
 <sup>This site is always alive. The documents and the associated repositories get updated from time to time. Even though a document is completed, it does not mean that its content will not change in the future. Any corrections or update proposals are welcome. Feel free to drop me a line at: *kamilazdybal at gmail dot com*.</sup>
 
@@ -59,6 +59,11 @@ Coming soon - our educational Python library intended to support your learning o
 <div class="row">
   <div class="column">
     <a><img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/multipy.png?raw=true" alt="multipy" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <h4><span class="fa fa-book"></span><a href="https://multipy.readthedocs.io/" target="_blank"> Documentation</a></h4>
+    <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Jupyter notebooks</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Repository</a></h4>
   </div>
 </div>
 
