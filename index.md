@@ -54,7 +54,7 @@ Since childhood I've loved science and enjoyed inventing my own ways of understa
 
 # **multipy** - Python library for multicomponent mass transfer
 
-Coming soon - our educational Python library intended to support your learning of multicomponent mass transfer. The goal was to create a set of functions that are the essential building blocks with which you can play to get more intuition and understanding of quantities involved in multicomponent flows. With these tools you can set-up your own problems such as the Stefan tube problem or the two-bulb diffusion without a whole lot of coding. We wish you a lot of joy in studying multicomponent mass transfer!
+Coming soon -- our educational Python library intended to support your learning of multicomponent mass transfer! Our goal was to create a set of functions that are the essential building blocks with which you can play to get more intuition and understanding of quantities involved in multicomponent flows. With these tools you can set-up your own problems such as the Stefan tube problem or the two-bulb diffusion without a whole lot of coding. We wish you a lot of joy in studying multicomponent mass transfer!
 
 <div class="row">
   <div class="column">
@@ -63,7 +63,7 @@ Coming soon - our educational Python library intended to support your learning o
   <div class="column">
     <h4><span class="fa fa-book"></span><a href="https://multipy.readthedocs.io/" target="_blank"> Documentation</a></h4>
     <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Jupyter tutorials</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Code</a></h4>
   </div>
 </div>
 
@@ -107,7 +107,7 @@ Reach out to the documentation for many illustrative tutorials! You can also run
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://www.sciencedirect.com/science/article/pii/S2352711020303435" target="_blank"> Publication</a></h4>
     <h4><span class="fa fa-book"></span><a href="https://pcafold.readthedocs.io/" target="_blank"> Documentation</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://gitlab.multiscale.utah.edu/common/PCAfold" target="_blank"> Repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://gitlab.multiscale.utah.edu/common/PCAfold" target="_blank"> Code</a></h4>
   </div>
 </div>
 
@@ -193,8 +193,7 @@ Well, here it is! In the Objectif Morse project you will make an interesting use
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/objectif-morse/raw/master/Documentation/Objectif_Morse.pdf" target="_blank"> Tutorial</a></h4>
-    <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/objectif-morse/tree/master/Code" target="_blank"> Code</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/objectif-morse" target="_blank"> Repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/objectif-morse" target="_blank"> Code</a></h4>
   </div>
 </div>
 
@@ -212,7 +211,7 @@ Using two data decomposition methods: Proper Orthogonal Decomposition (POD) and 
   </div>
   <div class="column">
     <h4><span class="fa fa-file-pdf-o"></span><a href="https://github.com/kamilazdybal/POD-DMD-decompositions/raw/master/final-report/stagiaire_report_kzdybal.pdf" target="_blank"> Report</a></h4>
-    <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/POD-DMD-decompositions" target="_blank"> Repository</a></h4>
+    <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/POD-DMD-decompositions" target="_blank"> Code</a></h4>
   </div>
 </div>
 
