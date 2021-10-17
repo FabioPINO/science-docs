@@ -33,13 +33,20 @@ img {
 
 <ul id="intro"></ul>
 
-### Hi, I'm Kamila, welcome to Science Docs!
+### **Hi, I'm Kamila, welcome to Science Docs!**
 
-This website is a collection of tutorials, articles, coding projects and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! I have a dream that the PDFs will now enrich your journey through learning and experimenting.
+Hi, I'm Kamila and I'm currently a 4th year PhD student at Université libre de Bruxelles.
+This website is a collection of tutorials, articles, coding projects and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! My research interests (which typically spice the materials you will find here) are: `reduced-order modeling`, `fluid dynamics`, `multicomponent mass transport`, `reacting flows`, `low-dimensional manifolds`. I have a dream that the PDFs will now enrich your journey through learning and experimenting.
+
+Since childhood I've loved science and enjoyed inventing my own ways of understanding and explaining things. **Science Docs** is pretty much an aftermath of that - a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write (although many times I will assume certain prerequisites that your grandmother should have!). Of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey. I have hopes that you will find doing science fascinating, rewarding and inspiring!
 
 <sup>This site is always alive. The documents and the associated repositories get updated from time to time. Even though a document is completed, it does not mean that its content will not change in the future. Any corrections or update proposals are welcome. Feel free to drop me a line at: *kamilazdybal at gmail dot com*.</sup>
 
-<sup>Reach out to the <a href="/science-docs/#about">About</a> section for a bit more info, or to the <a href="/science-docs/#blog">Science blog & thoughts</a> section for more fun science stuff.</sup>
+<sup>Reach out to the <a href="/science-docs/#blog">Science blog & thoughts</a> section for more fun science stuff.</sup>
+
+<img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/sherman.jpg?raw=true" alt="about-me" style="width:300px">
+
+<h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
 
 -----------------------
 
@@ -283,20 +290,6 @@ I collected few interesting computational examples in transport phenomena in a f
 # Tools
 
 ## [Standard Atmosphere Calculator](https://kamilazdybal.github.io/standard-atmosphere-calculator/standard-atmosphere-calculator.html)
-
------------------------
-
-<ul id="about"></ul>
-
-# About
-
-Hi, I'm Kamila and I'm currently a 4th year PhD student at Université libre de Bruxelles. Since childhood I've loved science and enjoyed inventing my own ways of explaining and understanding things. **Science Docs** is pretty much an aftermath of that - a site that I always wanted to create. When it comes to learning, I believe in the quote of Einstein: *you do not really understand something unless you can explain it to your grandmother*. My aim is to implement that level of understanding into the documents I write (although many times I will assume certain prerequisites that your grandmother should have!). Of course, if you wish to profit from the materials presented here, you will need to incorporate them in your journey. I have hopes that you will find doing science fascinating, rewarding and inspiring!
-
-My research interests: `reduced-order modeling`, `multicomponent mass transport`, `reacting flows`, `low-dimensional manifolds`.
-
-<img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/sherman.jpg?raw=true" alt="about-me" style="width:300px">
-
-<h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
 
 -----------------------
 
