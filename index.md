@@ -50,14 +50,16 @@ When it comes to learning, I believe in the quote of Einstein: *you do not reall
 
 # **multipy** - Python library for multicomponent mass transfer
 
-Coming soon -- our educational Python library intended to support your learning of multicomponent mass transfer! Our goal was to create a set of functions that are the essential building blocks with which you can play to get more intuition and understanding of quantities involved in multicomponent flows. With these tools you can set-up your own problems such as the Stefan tube problem or the two-bulb diffusion without a whole lot of coding. We wish you a lot of joy in studying multicomponent mass transfer!
+Check out the beta version of our educational Python library intended to support your learning of multicomponent mass transfer! Our goal was to create a set of functions that are the essential building blocks with which you can play to get more intuition and understanding of quantities involved in multicomponent flows. With these tools you can set-up your own problems such as the Stefan tube problem or the two-bulb diffusion without a whole lot of coding. We wish you a lot of joy in studying multicomponent mass transfer!
+
+<sup>This library is developed with the help of Professor James C. Sutherland from the University of Utah.</sup>
 
 <div class="row">
   <div class="column">
     <a><img src="https://github.com/kamilazdybal/science-docs/blob/master/_posts/multipy.png?raw=true" alt="multipy" style="width:150px"></a>
   </div>
   <div class="column">
-    <h4><span class="fa fa-book"></span><a href="https://multipy.readthedocs.io/" target="_blank"> Documentation</a></h4>
+    <h4><span class="fa fa-book"></span><a href="https://multipy-lib.readthedocs.io/" target="_blank"> Documentation</a></h4>
     <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Jupyter tutorials</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Code</a></h4>
   </div>
