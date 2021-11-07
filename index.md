@@ -60,7 +60,7 @@ Check out the beta version of our educational Python library intended to support
   </div>
   <div class="column">
     <h4><span class="fa fa-book"></span><a href="https://multipy-lib.readthedocs.io/" target="_blank"> Documentation</a></h4>
-    <h4><span class="fa fa-code"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Jupyter tutorials</a></h4>
+    <h4><span class="fa fa-code"></span><a href="https://mybinder.org/v2/gh/kamilazdybal/multipy/main?labpath=%2Fdocs%2Ftutorials" target="_blank"> Jupyter tutorials</a></h4>
     <h4><span class="fa fa-github"></span><a href="https://github.com/kamilazdybal/multipy" target="_blank"> Code</a></h4>
   </div>
 </div>
