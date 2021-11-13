@@ -109,6 +109,15 @@ Reach out to the documentation for many illustrative tutorials! You can also run
   </div>
 </div>
 
+<div class="row">
+  <div class="column">
+    <a><img src="https://gitlab.multiscale.utah.edu/common/PCAfold/raw/master/docs/outreach/PCAfold-poster.png" alt="PCAfold" style="width:150px"></a>
+  </div>
+  <div class="column">
+    <h4><span class="fa fa-file-pdf-o"></span><a href="https://gitlab.multiscale.utah.edu/common/PCAfold/-/raw/master/docs/outreach/PCAfold-poster.pdf" target="_blank"> Poster</a></h4>
+  </div>
+</div>
+
 <ul id="heatconduction"></ul>
 
 # Steady-state heat conduction
