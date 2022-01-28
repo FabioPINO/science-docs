@@ -58,6 +58,9 @@ Stay tuned for our book chapter in collection *Lecture notes in Energy:  Machine
   <div class="column">
     <a><img src="https://github.com/kamilazdybal/science-docs/raw/master/_posts/Springer-chapter.png" alt="Springer-book-chapter" style="width:150px"></a>
   </div>
+  <div class="column">
+    <h4><span class="fa fa-code"></span><a href="https://nbviewer.org/github/kamilazdybal/ROM-of-reacting-flows-Springer/blob/main/PCAfold-programming-examples.ipynb" target="_blank"> Jupyter notebook</a></h4>
+  </div>
 </div>
 
 <ul id="multipy"></ul>
