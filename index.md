@@ -6,25 +6,6 @@ layout: default
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<ul id="intro"></ul>
-
-### **Hi, I'm Kamila, welcome to Science Docs!**
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kamila-zdybal/">
-    <img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>  
-  <a href="https://scholar.google.com/citations?user=EI_up1gAAAAJ&hl=en&oi=ao">
-    <img src="https://img.shields.io/badge/GoogleScholar-critical?style=for-the-badge&logo=googlescholar&logoColor=white" alt="GoogleScholar Badge"/>
-  </a>
-  <a href="https://www.researchgate.net/profile/Kamila-Zdybal">
-    <img src="https://img.shields.io/badge/ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"/>
-  </a>
-  <a href="https://twitter.com/kamilazdybal">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <style>
 img {
     border: 1px solid #ddd;
@@ -49,6 +30,26 @@ img {
     display: table;
 }
 </style>
+
+<a href="https://www.linkedin.com/in/kamila-zdybal/">
+  <img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>  
+<a href="https://scholar.google.com/citations?user=EI_up1gAAAAJ&hl=en&oi=ao">
+  <img src="https://img.shields.io/badge/GoogleScholar-critical?style=for-the-badge&logo=googlescholar&logoColor=white" alt="GoogleScholar Badge"/>
+</a>
+<a href="https://www.researchgate.net/profile/Kamila-Zdybal">
+  <img src="https://img.shields.io/badge/ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"/>
+</a>
+<a href="https://orcid.org/0000-0002-3952-3824">
+  <img src="https://img.shields.io/badge/orcid-green?style=for-the-badge&logo=orcid&logoColor=white alt="ORCID Badge"/>
+</a>
+<a href="https://twitter.com/kamilazdybal">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+
+<ul id="intro"></ul>
+
+### **Hi, I'm Kamila, welcome to Science Docs!**
 
 Hi, I'm Kamila and I'm currently a 4th year PhD student at Université libre de Bruxelles.
 This website is a collection of tutorials, articles, coding projects and study notes that are the product of most of my passion that I have for life, Universe and everything else. Many of the materials gathered here are related to my research work and I have hopes that by sharing them you might find pursuing science fascinating! Some of my research interests (which typically spice the materials you will find here) are: dimensionality reduction, reduced-order modeling, low-dimensional manifolds methods, fluid dynamics, reacting flows and multicomponent mass transport. I have a dream that the PDFs will now enrich your journey through learning and experimenting!
