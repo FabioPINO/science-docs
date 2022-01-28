@@ -46,6 +46,20 @@ When it comes to learning, I believe in the quote of Einstein: *you do not reall
 
 -----------------------
 
+<ul id="2022-springer"></ul>
+
+# Reduced-order modeling of reacting flows using data-driven approaches
+
+Stay tuned for our book chapter in collection *Lecture notes in Energy:  Machine Learning and its Application to Reacting Flows* by me and co-workers, coming soon!
+
+<sup>K. Zdybał, M. R. Malik, A. Coussement, J. C. Sutherland, A. Parente, *Reduced-order modeling of reacting flows using data-driven approaches*, In N. Swaminathan, A. Parente, editors, *Lecture notes in Energy:  Machine Learning and its Application to Reacting Flows*, Springer, 2022</sup>
+
+<div class="row">
+  <div class="column">
+    <a><img src="https://github.com/kamilazdybal/science-docs/raw/master/_posts/Springer-chapter.png" alt="Springer-book-chapter" style="width:150px"></a>
+  </div>
+</div>
+
 <ul id="multipy"></ul>
 
 # **multipy** - Python library for multicomponent mass transfer
@@ -65,13 +79,13 @@ Check out the beta version of our educational Python library intended to support
   </div>
 </div>
 
-<ul id="2021-vki-ulb-cup"></ul>
+<ul id="2022-vki-ulb-cup"></ul>
 
 # Advancing reacting flow simulations with data-driven models
 
 Stay tuned for our book chapter in collection *Data-Driven Fluid Dynamics: Combining First Principles and Machine Learning* by me and co-workers, coming soon!
 
-<sup>K. Zdybał, G. D'Alessio, G. Aversano, M. R. Malik, A. Coussement, J. C. Sutherland, A. Parente, *Advancing reacting flow simulations with data-driven models*, In M. A. Mendez, A. Ianiro, B. R. Noack,  S. L. Brunton, editors, *Data-Driven Fluid Dynamics: Combining First Principles and Machine Learning*, Cambridge University Press, 2021</sup>
+<sup>K. Zdybał, G. D'Alessio, G. Aversano, M. R. Malik, A. Coussement, J. C. Sutherland, A. Parente, *Advancing reacting flow simulations with data-driven models*, In M. A. Mendez, A. Ianiro, B. R. Noack,  S. L. Brunton, editors, *Data-Driven Fluid Dynamics: Combining First Principles and Machine Learning*, Cambridge University Press, 2022</sup>
 
 <div class="row">
   <div class="column">
