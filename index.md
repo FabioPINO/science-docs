@@ -33,19 +33,19 @@ img {
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kamila-zdybal/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="width:150px height:50px border:"0""/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="width:150px" height=50px border="0"/>
   </a>  
   <a href="https://scholar.google.com/citations?user=EI_up1gAAAAJ&hl=en&oi=ao">
-    <img src="https://img.shields.io/badge/GoogleScholar-critical?style=for-the-badge&logo=googlescholar&logoColor=white" alt="GoogleScholar Badge" style="width:200px height:50px border:"0""/>
+    <img src="https://img.shields.io/badge/GoogleScholar-critical?style=for-the-badge&logo=googlescholar&logoColor=white" alt="GoogleScholar Badge" style="width:200px" height=50 border="0"/>
   </a>
   <a href="https://www.researchgate.net/profile/Kamila-Zdybal">
-    <img src="https://img.shields.io/badge/ResearchGate-lightseagreen?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"  width=200 height=50 border="0"/>
+    <img src="https://img.shields.io/badge/ResearchGate-lightseagreen?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"  style="width:200px" height=50 border="0"/>
   </a>
   <a href="https://orcid.org/0000-0002-3952-3824">
-    <img src="https://img.shields.io/badge/orcid-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge" width=100 height=50 border="0"/>
+    <img src="https://img.shields.io/badge/orcid-green?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge" style="width:100px" height=50 border="0"/>
   </a>
   <a href="https://twitter.com/kamilazdybal">
-    <img src="https://img.shields.io/badge/Twitter-dodgerblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" width=150 height=50 border="0"/>
+    <img src="https://img.shields.io/badge/Twitter-dodgerblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="width:150px" height=50 border="0"/>
   </a>
 </div>
 
